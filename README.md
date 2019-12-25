@@ -5,6 +5,7 @@
 - [bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful UDFs, scripts, and views for working with Google BigQuery
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
+- [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
 
 ## Coding & IDEs
 - [Cloud Code for VS Code and IntelliJ](https://cloud.google.com/code/)
