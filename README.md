@@ -4,6 +4,7 @@
 ### Google BigQuery
 - [bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful UDFs, scripts, and views for working with Google BigQuery
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
+- [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
 
 ## Coding & IDEs
 - [Cloud Code for VS Code and IntelliJ](https://cloud.google.com/code/)
