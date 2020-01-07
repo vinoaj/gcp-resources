@@ -6,8 +6,12 @@
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
 - [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
-#### Articles
+
+#### Articles by Googlers
 - [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
+
+#### Articles by enthusiasts
+- [Pro tips for Google Cloud Dataflow & BigQuery](https://polleyg.dev/posts/data-engineering-tips/)
 
 ### Google Cloud Storage
 - [Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) mounts Google Cloud Storage buckets as filesystems on Linux and Mac OS
