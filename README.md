@@ -19,9 +19,16 @@
 ## Coding & IDEs
 - [Cloud Code for VS Code and IntelliJ](https://cloud.google.com/code/)
 
+## Networking
+- [Infrastructure overview](https://cloud.withgoogle.com/infrastructure/)
+
 ## Security
 ### Secrets Management
 - [Berglas](https://github.com/GoogleCloudPlatform/berglas): command line tool and library for storing and retrieving secrets on Google Cloud
+
+
+## Kubernetes
+- [Guide to Kubernetes Best Practices](https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices)
 
 
 ## Trainings
