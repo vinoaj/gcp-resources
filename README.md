@@ -30,6 +30,9 @@
 ## Kubernetes
 - [Guide to Kubernetes Best Practices](https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices)
 
+## Machine Learning (ML) & Artificial Intelligence (AI)
+- [Auto Data Exploration and Feature Recommendation Tool](https://github.com/GoogleCloudPlatform/professional-services/tree/master/tools/ml-auto-eda)
+- [Whitepaper: Exploratory Data Analysis for Feature Selection in Machine Learning](http://services.google.com/fh/files/misc/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf)
 
 ## Trainings
 A full list of [Google Cloud Trainings is here](https://cloud.google.com/training/).
