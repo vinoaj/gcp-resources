@@ -16,6 +16,7 @@
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
 
 ## Articles by Googlers
+- [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
 - [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
 
 ## Articles by enthusiasts
