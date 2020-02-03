@@ -1,19 +1,11 @@
 # Useful GCP Resources
 
+This repository houses links to useful resources related to operating successfully on the Google Cloud Platform (GCP). This repository is structured as a collection of folders that are broken down by GCP products (e.g. BigQuery) and by practice areas (e.g. ML & AI).
+
+## Foundational
+- The [CLoud Foundation Toolkit](https://cloud.google.com/foundation-toolkit/) is a collection of Deployment Manager and Terraform best-practice templates to get you started on GCP. There are templates for provisioning projects, VPCs, GKE clusters, etc.
+
 ## Big Data
-### Google BigQuery
-- [bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful UDFs, scripts, and views for working with Google BigQuery
-- [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
-- [BigQuery Query Plan Visualizer](https://github.com/smeyn/professional-services/tree/master/tools/bq-visualizer): provides a web application which can be used to visualise the flow of execution stages within a BigQuery job. This may be useful in identifying problematic stages and provides greater usability for large query plans than the default query plan explanation in the Google Cloud Console.
-- [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
-- [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
-
-#### Articles by Googlers
-- [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
-
-#### Articles by enthusiasts
-- [Pro tips for Google Cloud Dataflow & BigQuery](https://polleyg.dev/posts/data-engineering-tips/)
-
 ### Google Cloud Storage
 - [Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) mounts Google Cloud Storage buckets as filesystems on Linux and Mac OS
 
