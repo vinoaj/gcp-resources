@@ -27,6 +27,9 @@ This repository houses links to useful resources related to operating successful
 - [Auto Data Exploration and Feature Recommendation Tool](https://github.com/GoogleCloudPlatform/professional-services/tree/master/tools/ml-auto-eda)
 - [Whitepaper: Exploratory Data Analysis for Feature Selection in Machine Learning](http://services.google.com/fh/files/misc/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf)
 
+## Sustainability
+- [Here's Who Has the Greenest Cloud (wired.com)](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
+
 ## Trainings
 A full list of [Google Cloud Trainings is here](https://cloud.google.com/training/).
 
