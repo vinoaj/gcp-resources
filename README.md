@@ -33,6 +33,9 @@ This repository houses links to useful resources related to operating successful
 ## Trainings
 A full list of [Google Cloud Trainings is here](https://cloud.google.com/training/).
 
+### Specialisations
+- [Learning path: Data Engineering on Google Cloud](https://google.qwiklabs.com/courses/1156) | Google content | Coursera or in-person | Paid | "This four-day instructor-led class provides participants a hands-on introduction to designing and building data processing systems on Google Cloud Platform. ...[L]earn how to design data processing systems, build end-to-end data pipelines, analyze data and carry out machine learning. The course covers structured, unstructured, and streaming data."
+
 ### Trainings for Business Professionals
 - [Business Transformation with Google Cloud](https://www.coursera.org/promo/bt_googlecloud_offer?utm_source=googlecloud&utm_medium=institutions&utm_campaign=oct19_bt_bdm_blog) | Google content | Coursera | Paid | "This interactive course will empower you to understand the cloud, help you adopt an innovative mindset, map your data ecosystem, and build a high-level security program. It also offers industry examples and a step-by-step process to develop a business case to gain buy-in from your leadership."
 - [Machine Learning for Busienss Professionals](https://www.coursera.org/learn/machine-learning-business-professionals?utm_source=googlecloud&utm_medium=institutions&utm_campaign=oct_ml_bdm_blog) | Google content | Coursera | **Free** | "This course is intended to be an introduction to machine learning for non-technical business professionals. There is a lot of hype around machine learning and many people are concerned that in order to use machine learning in business, you need to have a technical background. For reasons that are covered in this course, that's not the case. In actuality, your knowledge of your business is far more important than your ability to build an ML model from scratch."
