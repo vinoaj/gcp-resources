@@ -26,4 +26,4 @@ Resources for sending customer signals back into GMP so that you can achieve mor
     - [Conversion predition (binary classification)](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/tree/master/conversion_prediction_binary_classification_sql)
     - [Customer segmentation](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/tree/master/customer_segmentation_sql)
     - [Lifetime value classification](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/tree/master/lifetime_value_classification_sql)
-- [k-means clustering with BigQuery ML](- https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b)
+- [k-means clustering with BigQuery ML](https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b)
