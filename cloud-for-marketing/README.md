@@ -23,4 +23,5 @@ Resources for sending customer signals back into GMP so that you can achieve mor
 - [Causal Impcat model]
 - [Lifelines]
 - [BigQuery ML templates]
-- 
+- [k-means clustering with BigQuery ML](- https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b
+)
