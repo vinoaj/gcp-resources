@@ -1,0 +1,26 @@
+# Google Cloud for Marketing Resources
+
+Google Cloud for Marketing refers to the art of utilising Google Cloud Platform's (GCP) data & ML capabilities to enhance marketing activities on the Google Marketing Platform (GMP). 
+
+## Audience Activation
+Resources for sending customer signals back into GMP so that you can achieve more granular targeting.
+
+- [GMP and Google Ads Connector (aka "Tentacles")](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/activation/gmp-googleads-connector) is a set of Google Cloud Platform services chained together to send audience signals (e.g. propensity to purchase score) to Google Marketing Platform targets (e.g. Google Analytics, Google Sheets, SA360, DV360, SFTP). 
+    - Here's a useful [instructional video](https://www.youtube.com/watch?v=Fu1k2OVyz0A) by [Metric Mogul](http://www.metricmogul.co.uk/)
+- [Google Ads Customer Match with identifiers](https://developers.google.com/adwords/api/docs/guides/remarketing#customer_match_with_email_address_address_or_user_id)
+- [DCM/DFA upload conversions](https://developers.google.com/doubleclick-advertisers/guides/conversions_upload)
+
+## Guides
+- [Implementing a recommendation system with TensorFlow](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/personalization/tensorflow-recommendation)
+- [Predicting Customer Lifetime Value (CLV/CLTV) with TensorFlow](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/predicting/tensorflow-lifetime-value)
+- [Calling AutoML Tables predictions in Google Sheets](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/predicting/automl-tables-in-sheets): this Google Apps Script code parses rows in a Google Sheet and gets a prediction for each row by calling a trained AutoML Tables model.
+- [BigQuery SQL statements for working with GA360 and DV360 datasets](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/understanding/bigquery-exports-queries)
+- [k-means clustering with BigQuery ML](https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b
+)
+
+## Frameworks / Models
+- [ML Data Windowing Pipeline solution](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/predicting/ml-data-windowing-pipeline): a set of Google Cloud Dataflow pipelines, used to process Google Analytics 360 or CRM data into a Machine Learning (ML)-ready dataset. The resulting dataset will contain snapshots of dates sliding at set intervals. Each date contains a user’s features based on what has happened in the past (a set lookback window respective of the date to aggregate data in), and a label based on what will happen in the future (a set prediction window respective of the date).
+- [Causal Impcat model]
+- [Lifelines]
+- [BigQuery ML templates]
+- 
