@@ -2,6 +2,9 @@
 
 Google Cloud for Marketing refers to the art of utilising Google Cloud Platform's (GCP) data & ML capabilities to enhance marketing activities on the Google Marketing Platform (GMP). 
 
+## Data Ingestion
+- [Argon](https://github.com/google/argon): This middleware automates the import of both Campaign Manager (CM) and Display & Video 360 (DV) Offline Reporting files into BigQuery. It can be deployed onto Cloud Functions.
+
 ## Audience Activation
 Resources for sending customer signals back into GMP so that you can achieve more granular targeting.
 
