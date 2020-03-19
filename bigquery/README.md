@@ -36,6 +36,9 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - Lookup data in the Stackdriver Logging interface; and/or
 - Export audit logs to a BigQuery sink and query that data
 
+## Backukp and Disaster Recovery
+- [How to backup BigQuery datasets and tables to Google Cloud Storage](https://medium.com/google-cloud/how-to-backup-a-bigquery-table-or-dataset-to-google-cloud-storage-and-restore-from-it-6ef7eb322c6d)
+
 ## Migrating to BigQuery
 - [Redshift and S3 migration to BigQuery](https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools)
 
