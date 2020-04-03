@@ -1,0 +1,1 @@
+- [Recovering from regional failure in 10 minutes or less](https://medium.com/google-cloud/cloud-sql-recovering-from-regional-failure-in-10-minutes-or-less-mysql-fc055540a8f0)
