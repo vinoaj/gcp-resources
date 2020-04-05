@@ -10,6 +10,9 @@
 ## Training
 - [BigQuery quests on Qwiklabs](https://google.qwiklabs.com/catalog?keywords=bigquery)
 
+## Security
+- [Data deletion and retention with crypto-shredding (Part 1)](https://medium.com/google-cloud/bigquery-encryption-functions-part-i-data-deletion-retention-with-crypto-shredding-7085ecf6e53f), [(Part 2)](https://medium.com/google-cloud/end-to-end-crypto-shredding-part-ii-data-deletion-retention-with-crypto-shredding-a67f5300a8c8)
+
 ## Tools
 - [bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful UDFs, scripts, and views for working with Google BigQuery
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
@@ -48,3 +51,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Articles by enthusiasts
 - [Pro tips for Google Cloud Dataflow & BigQuery](https://polleyg.dev/posts/data-engineering-tips/)
+
+## Case Studies
+- [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
+- [How Twitter's Data Analytics Platform team uses BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery.html)
