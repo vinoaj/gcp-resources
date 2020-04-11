@@ -7,6 +7,9 @@
 - [What is a slot?](https://cloud.google.com/bigquery/docs/slots)
 - [DML: what happens under the hood and best practices](https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery)
 
+## Machine Learning (BigQuery ML)
+- [How to do time series forecasting in BigQuery](https://medium.com/@lakshmanok/how-to-do-time-series-forecasting-in-bigquery-af9eb6be8159) ([corresponding notebook](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book/blob/master/blogs/bqml_arima/bqml_arima.ipynb))
+
 ## Training
 - [BigQuery quests on Qwiklabs](https://google.qwiklabs.com/catalog?keywords=bigquery)
 
@@ -21,6 +24,7 @@
 
 ## Frameworks
 - [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
+- [Tink](https://github.com/google/tink) is Google's multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. BigQuery's [AEAD (authenticated encryption with associated data) Encryption Functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/aead_encryption_functions) use Tink under the hood. 
 
 ## Monitoring
 - [Taking a practical approach to BigQuery slot usage analysis](https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse)
@@ -44,6 +48,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Migrating to BigQuery
 - [Redshift and S3 migration to BigQuery](https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools)
+- [How do I move data from MySQL to BigQuery?](https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery): CDC methodology using Debezium -> Pub/Sub -> Dataflow -> BigQuery
 
 ## Articles by Googlers
 - [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
@@ -51,6 +56,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Articles by enthusiasts
 - [Pro tips for Google Cloud Dataflow & BigQuery](https://polleyg.dev/posts/data-engineering-tips/)
+- [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
