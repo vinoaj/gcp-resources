@@ -19,13 +19,15 @@ This repository houses links to useful resources related to operating successful
 ### Secrets Management
 - [Berglas](https://github.com/GoogleCloudPlatform/berglas): command line tool and library for storing and retrieving secrets on Google Cloud
 
-
 ## Kubernetes
 - [Guide to Kubernetes Best Practices](https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices)
 
 ## Machine Learning (ML) & Artificial Intelligence (AI)
 - [Auto Data Exploration and Feature Recommendation Tool](https://github.com/GoogleCloudPlatform/professional-services/tree/master/tools/ml-auto-eda)
 - [Whitepaper: Exploratory Data Analysis for Feature Selection in Machine Learning](http://services.google.com/fh/files/misc/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf)
+
+## Billing and cost control
+- [Best practices for optimizing your cloud costs](https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs)
 
 ## Sustainability
 - [Here's Who Has the Greenest Cloud (wired.com)](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
