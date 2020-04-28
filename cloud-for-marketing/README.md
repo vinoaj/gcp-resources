@@ -12,6 +12,7 @@ Resources for sending customer signals back into GMP so that you can achieve mor
     - Here's a useful [instructional video](https://www.youtube.com/watch?v=Fu1k2OVyz0A) by [Metric Mogul](http://www.metricmogul.co.uk/)
 - [Google Ads Customer Match with identifiers](https://developers.google.com/adwords/api/docs/guides/remarketing#customer_match_with_email_address_address_or_user_id)
 - [DCM/DFA upload conversions](https://developers.google.com/doubleclick-advertisers/guides/conversions_upload)
+- [Training a recommendation model for Google Analytics data using BigQuery ML](https://towardsdatascience.com/training-a-recommendation-model-for-google-analytics-data-using-bigquery-ml-2327f9a2e8e9)
 
 ## Guides
 - [Implementing a recommendation system with TensorFlow](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/personalization/tensorflow-recommendation)
