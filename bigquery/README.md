@@ -9,6 +9,7 @@
 
 ## Machine Learning (BigQuery ML)
 - [How to do time series forecasting in BigQuery](https://medium.com/@lakshmanok/how-to-do-time-series-forecasting-in-bigquery-af9eb6be8159) ([corresponding notebook](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book/blob/master/blogs/bqml_arima/bqml_arima.ipynb))
+- [Using BigQuery (and BigQuery ML) from Kubeflow Pipelines](https://medium.com/google-cloud/using-bigquery-and-bigquery-ml-from-kubeflow-pipelines-991a2fa4bea8)
 
 ## Training
 - [BigQuery quests on Qwiklabs](https://google.qwiklabs.com/catalog?keywords=bigquery)
