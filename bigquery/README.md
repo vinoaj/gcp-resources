@@ -10,6 +10,10 @@
 ## Machine Learning (BigQuery ML)
 - [How to do time series forecasting in BigQuery](https://medium.com/@lakshmanok/how-to-do-time-series-forecasting-in-bigquery-af9eb6be8159) ([corresponding notebook](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book/blob/master/blogs/bqml_arima/bqml_arima.ipynb))
 - [Using BigQuery (and BigQuery ML) from Kubeflow Pipelines](https://medium.com/google-cloud/using-bigquery-and-bigquery-ml-from-kubeflow-pipelines-991a2fa4bea8)
+- [How to export a BigQuery ML model and deploy it for online prediction](https://towardsdatascience.com/how-to-export-a-bigquery-ml-model-and-deploy-it-for-online-prediction-a7e4d44c4c93)
+
+## SQL
+- [How to use Dynamic SQL in BigQuery](https://towardsdatascience.com/how-to-use-dynamic-sql-in-bigquery-8c04dcc0f0de)
 
 ## Training
 - [BigQuery quests on Qwiklabs](https://google.qwiklabs.com/catalog?keywords=bigquery)
@@ -62,3 +66,6 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
 - [How Twitter's Data Analytics Platform team uses BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery.html)
+
+## History
+- [Meet the BigQuery founding engineers](https://www.youtube.com/watch?v=ngaUTCQfvYA)
