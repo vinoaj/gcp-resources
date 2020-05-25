@@ -7,6 +7,9 @@ This repository houses links to useful resources related to operating successful
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework): Google Cloud's Architecture Framework describes best practices, makes implementation recommendations, and goes into detail about products and services. The framework aims to help you design your Google Cloud deployment so that it best matches your business needs.
 
 ## Big Data
+### Concepts
+- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+
 ### Google Cloud Storage
 - [Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) mounts Google Cloud Storage buckets as filesystems on Linux and Mac OS
 
