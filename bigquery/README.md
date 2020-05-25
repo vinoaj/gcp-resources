@@ -26,6 +26,7 @@
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
 - [BigQuery Query Plan Visualizer](https://bqvisualiser.appspot.com/): provides a web application which can be used to visualise the flow of execution stages within a BigQuery job. This may be useful in identifying problematic stages and provides greater usability for large query plans than the default query plan explanation in the Google Cloud Console. The source code is available [here](https://github.com/smeyn/professional-services/tree/master/tools/bq-visualizer).
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
+- [Fake PII table creator](https://github.com/mesmacosta/bq-fake-pii-table-creator): scripts to generate tables with fake PII (e.g. names, phone numbers, etc.). Useful for testing out DLP.
 
 ## Frameworks
 - [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
