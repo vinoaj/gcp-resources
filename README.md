@@ -36,6 +36,9 @@ This repository houses links to useful resources related to operating successful
 ## Sustainability
 - [Here's Who Has the Greenest Cloud (wired.com)](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
 
+## Pricing
+- [Whitepaper: Understanding the principles of cost optimization] (https://services.google.com/fh/files/misc/understanding_the_principles_of_cost_optimization_2020_whitepaper_google_cloud.pdf)
+
 ## Trainings
 A full list of [Google Cloud Trainings is here](https://cloud.google.com/training/).
 
