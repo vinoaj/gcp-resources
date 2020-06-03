@@ -6,6 +6,9 @@ This repository houses links to useful resources related to operating successful
 - The [CLoud Foundation Toolkit](https://cloud.google.com/foundation-toolkit/) is a collection of Deployment Manager and Terraform best-practice templates to get you started on GCP. There are templates for provisioning projects, VPCs, GKE clusters, etc.
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework): Google Cloud's Architecture Framework describes best practices, makes implementation recommendations, and goes into detail about products and services. The framework aims to help you design your Google Cloud deployment so that it best matches your business needs.
 
+## Security
+- [Solution Architecture: Identity and Access Management](https://cloud.google.com/architecture/identity)
+
 ## Big Data
 ### Concepts
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
