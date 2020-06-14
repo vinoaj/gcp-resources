@@ -6,6 +6,8 @@
 ## Concepts
 - [What is a slot?](https://cloud.google.com/bigquery/docs/slots)
 - [DML: what happens under the hood and best practices](https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery)
+- [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
+- [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
 
 ## Machine Learning (BigQuery ML)
 - [How to do time series forecasting in BigQuery](https://medium.com/@lakshmanok/how-to-do-time-series-forecasting-in-bigquery-af9eb6be8159) ([corresponding notebook](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book/blob/master/blogs/bqml_arima/bqml_arima.ipynb))
@@ -56,22 +58,21 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Redshift and S3 migration to BigQuery](https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools)
 - [How do I move data from MySQL to BigQuery?](https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery): CDC methodology using Debezium -> Pub/Sub -> Dataflow -> BigQuery
 
+## dbt
+- [Loading and transforming data into BigQuery using dbt](https://medium.com/@lakshmanok/loading-and-transforming-data-into-bigquery-using-dbt-65307ad401cd)
+- [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
+
 ## Pricing
 - [Choosing between BigQuery on-demand and flat rate pricing](https://cloud.google.com/blog/products/data-analytics/choosing-bigquery-pricing)
 - [Optimize BigQuery costs with Flex Slots](https://cloud.google.com/blog/products/data-analytics/optimize-bigquery-costs-with-flex-slots)
     - ![](https://storage.googleapis.com/gweb-cloudblog-publish/images/3_slots_and_on-demand.max-1200x1200.jpg)
+- [Effectively using BigQuery Reservations](https://cloud.google.com/blog/products/data-analytics/effectively-using-bigquery-reservations)
 
 ### Pricing best practices
 - The recommended best practice for BigQuery Reservations is to maintain a dedicated project for administering the reservations.
 
-
-## Articles by Googlers
-- [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
-- [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
-
-## Articles by enthusiasts
-- [Pro tips for Google Cloud Dataflow & BigQuery](https://polleyg.dev/posts/data-engineering-tips/)
-- [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
+## Guides & HowTos
+- [Using BigQuery DML & External Temporary Tables To Perform Realtime Reformatting Inserts For Television News Ngrams](https://blog.gdeltproject.org/using-bigquery-dml-external-temporary-tables-to-perform-realtime-reformatting-inserts-for-television-news-ngrams/)
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
