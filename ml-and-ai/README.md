@@ -1,6 +1,7 @@
 # Machine Learning (ML) & Artificial Intelligence (AI)
 
 ## Best Practices
+- [Google Cloud’s AI Adoption Framework](https://services.google.com/fh/files/misc/ai_adoption_framework_whitepaper.pdf)
 - [Best practices for creating training datasets for AutoML Tables](https://cloud.google.com/automl-tables/docs/data-best-practices)
 
 ## Concepts

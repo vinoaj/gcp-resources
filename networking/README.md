@@ -1,3 +1,6 @@
+# Networking
+
+- [Measuring network latency in the cloud](https://cloud.google.com/blog/products/networking/using-netperf-and-ping-to-measure-network-latency)
 - [​Dashboard: Google Cloud Inter-region latency and throughput](https://datastudio.google.com/c/u/0/reporting/fc733b10-9744-4a72-a502-92290f608571/page/70YCB) (how to [reproduce the methodlogy](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker/tree/master/tutorials/inter_region_reports))
 
 - [Networking options explained](https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained)
