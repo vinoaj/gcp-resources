@@ -4,3 +4,5 @@
     - Access request and role-based access control: folders + Cloud IAM roles
     - Separation of duties (SoD): org-level roles
     - Reporting and access views: export IAM policies to BigQuery for analysis
+
+- [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
