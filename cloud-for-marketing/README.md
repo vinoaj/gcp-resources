@@ -31,3 +31,6 @@ Resources for sending customer signals back into GMP so that you can achieve mor
     - [Customer segmentation](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/tree/master/customer_segmentation_sql)
     - [Lifetime value classification](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/tree/master/lifetime_value_classification_sql)
 - [k-means clustering with BigQuery ML](https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b)
+
+# Tools
+- [StarThinker](https://google.github.io/starthinker/): set of open-source tools to work with Google Marketing Platform (including Google Analytics) data, Google Ads data, and Google Cloud.
