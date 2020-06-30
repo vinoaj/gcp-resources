@@ -11,5 +11,8 @@
 ## AutoML
 - [How Kaggle solved a spam problem in 8 days using AutoML](https://cloud.google.com/blog/products/ai-machine-learning/how-kaggle-solved-a-spam-problem-using-automl)
 
+## Training
+- [Learn with Google AI](https://ai.google/education/)
+
 ## Case Studies
 - [Scaled Machine Learning with Google Cloud @ ANZ](https://www.linkedin.com/pulse/scaled-machine-learning-google-cloud-anz-leo-mao/)
