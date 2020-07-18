@@ -1,5 +1,8 @@
 # Useful `gcloud` and `gsutil` commands
 
+- [gcloud Cheat Sheet (PDF)](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf)
+
+
 ## `gcloud` commands
 
 ### Switch projects
