@@ -1,5 +1,8 @@
 # Looker
 
+## LookML
+- [Getting to know Looker: How LookML can simplify BI workflows](https://cloud.google.com/blog/products/data-analytics/how-lookml-can-simplify-bi-workflows)
+
 ## Blocks
 ### Retail use cases
 - [Affinity analysis](https://looker.com/platform/blocks/analytic/affinity-analysis)
