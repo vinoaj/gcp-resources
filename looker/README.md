@@ -1,0 +1,12 @@
+# Looker
+
+## Blocks
+### Retail use cases
+- [Affinity analysis](https://looker.com/platform/blocks/analytic/affinity-analysis)
+- [A/B testing with statistical significance](https://looker.com/platform/blocks/analytic/ab-testing-with-statistical-significance)
+- [Custom cohorts](https://looker.com/platform/blocks/analytic/creating-custom-cohorts)
+- [User loyalty](https://looker.com/platform/blocks/analytic/user-loyalty-and-other-user-attributes)
+- [Repeat purchase patterns](https://looker.com/platform/blocks/analytic/repeat-purchase-patterns)
+- [Daily/weekly/monthly active users](https://looker.com/platform/blocks/analytic/daily-weekly-monthly-active-users)
+- [User activity and engagement](https://looker.com/platform/blocks/analytic/measuring-activity-and-engagement)
+- [Retention analysis](https://looker.com/platform/blocks/analytic/retention-analysis)
