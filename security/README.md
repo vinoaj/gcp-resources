@@ -6,3 +6,5 @@
     - Reporting and access views: export IAM policies to BigQuery for analysis
 
 - [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
+
+- [Google Cloud Security Showcase](https://www.youtube.com/playlist?list=PLBgogxgQVM9tEGqcLF7DL_Q0sst5RvPLn)
