@@ -19,8 +19,8 @@ Resources for sending customer signals back into GMP so that you can achieve mor
 - [Predicting Customer Lifetime Value (CLV/CLTV) with TensorFlow](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/predicting/tensorflow-lifetime-value)
 - [Calling AutoML Tables predictions in Google Sheets](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/predicting/automl-tables-in-sheets): this Google Apps Script code parses rows in a Google Sheet and gets a prediction for each row by calling a trained AutoML Tables model.
 - [BigQuery SQL statements for working with GA360 and DV360 datasets](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/understanding/bigquery-exports-queries)
-- [k-means clustering with BigQuery ML](https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b
-)
+- [k-means clustering with BigQuery ML](https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b)
+- [Google News Initiative Data Lab 2020 Playbook (published by [MightyHive](https://mightyhive.com/gni-apac-data-lab/))](https://4dpi933qg9bg32ym313o3xxt-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/2020_07_Playbook_GNI.pdf)
 
 ## Frameworks / Models
 - [ML Data Windowing Pipeline solution](https://github.com/GoogleCloudPlatform/cloud-for-marketing/tree/master/marketing-analytics/predicting/ml-data-windowing-pipeline): a set of Google Cloud Dataflow pipelines, used to process Google Analytics 360 or CRM data into a Machine Learning (ML)-ready dataset. The resulting dataset will contain snapshots of dates sliding at set intervals. Each date contains a user’s features based on what has happened in the past (a set lookback window respective of the date to aggregate data in), and a label based on what will happen in the future (a set prediction window respective of the date).
