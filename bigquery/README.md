@@ -34,7 +34,7 @@
 
 ## Frameworks
 - [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
-- [Tink](https://github.com/google/tink) is Google's multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. BigQuery's [AEAD (authenticated encryption with associated data) Encryption Functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/aead_encryption_functions) use Tink under the hood. 
+- [Tink](https://github.com/google/tink) is Google's multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. BigQuery's [AEAD (authenticated encryption with associated data) Encryption Functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/aead_encryption_functions) uses Tink under the hood. 
 
 ## Monitoring
 - [Taking a practical approach to BigQuery slot usage analysis](https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse)

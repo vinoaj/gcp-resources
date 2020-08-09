@@ -1,3 +1,5 @@
+- [Google Cloud security best practices center](https://cloud.google.com/security/best-practices)
+
 - [Achieving identity and access governance on Google Cloud](https://cloud.google.com/blog/products/identity-security/achieving-identity-and-access-governance-on-google-cloud)
     - User provisioning and deprovisioning: Cloud Identity + Google Cloud Directory Sync 
     - SSO: SAML 2.0 integrations
