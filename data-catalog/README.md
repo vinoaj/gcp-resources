@@ -19,3 +19,4 @@ Data Catalog can connect to non-GCP cloud data stores
 ## Utilities
 - [Data Catalog Fileset Enricher](https://github.com/mesmacosta/datacatalog-fileset-enricher): an open-source Python package to enrich Google Cloud Data Catalog Fileset Entries with Data Catalog Tags. The goal of this library is to provide useful statistics regarding the GCS files that match the file pattern on the provided Data Catalog Fileset Entry
 - [Data Catalog Util](https://github.com/mesmacosta/datacatalog-util): an open-source Python package of helpful utilities
+- [Sample tag templates (GitHub)](https://github.com/GoogleCloudPlatform/datacatalog-templates)
