@@ -14,6 +14,7 @@
 
 ## Training
 - [Learn with Google AI](https://ai.google/education/)
+- [Beginners guide to painless machine learning](https://cloud.google.com/blog/products/ai-machine-learning/beginners-guide-to-painless-machine-learning)
 
 ## Case Studies
 - [Scaled Machine Learning with Google Cloud @ ANZ](https://www.linkedin.com/pulse/scaled-machine-learning-google-cloud-anz-leo-mao/)
