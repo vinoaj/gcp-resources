@@ -70,6 +70,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Optimize BigQuery costs with Flex Slots](https://cloud.google.com/blog/products/data-analytics/optimize-bigquery-costs-with-flex-slots)
     - ![](https://storage.googleapis.com/gweb-cloudblog-publish/images/3_slots_and_on-demand.max-1200x1200.jpg)
 - [Effectively using BigQuery Reservations](https://cloud.google.com/blog/products/data-analytics/effectively-using-bigquery-reservations)
+- [How to right-size your flat-rate and flex slots reservations in BigQuery](https://medium.com/google-cloud/how-to-move-from-on-demand-pricing-to-reservations-in-bigquery-65552cbebd45)
 
 ### Pricing best practices
 - The recommended best practice for BigQuery Reservations is to maintain a dedicated project for administering the reservations.
@@ -77,11 +78,13 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 ## Guides & HowTos
 - [Using BigQuery DML & External Temporary Tables To Perform Realtime Reformatting Inserts For Television News Ngrams](https://blog.gdeltproject.org/using-bigquery-dml-external-temporary-tables-to-perform-realtime-reformatting-inserts-for-television-news-ngrams/)
 - [Building a Data Platform to Enable Analytics and AI-Driven Innovation](https://medium.com/swlh/building-a-data-platform-to-enable-analytics-and-ai-driven-innovation-1bd95e37efb9)
+- [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
 - [How Twitter's Data Analytics Platform team uses BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery.html)
 - [How Unity analyzes petabytes of data in BigQuery for reporting and ML initiatives](https://cloud.google.com/blog/products/data-analytics/cloud-data-warehouse-for-ml-advanced-analytics)
+- [A tale of two data warehouses — News UK’s data platform migration to Google Cloud (Part 1)](https://medium.com/news-uk-technology/a-tale-of-two-data-warehouses-newsuks-data-platform-migration-to-google-cloud-part-1-be1bc0ff09d8) [(Part 2)](https://medium.com/news-uk-technology/a-tale-of-two-data-warehouses-news-uks-data-platform-migration-to-google-cloud-part-2-2aae617899a0)
 
 ## Compare
 - [BigQuery vs Redshift vs Snowflake](https://poplindata.com/data-warehouses/2020-database-showdown-bigquery-vs-redshift-vs-snowflake/)

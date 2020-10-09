@@ -13,3 +13,6 @@
 - [Daily/weekly/monthly active users](https://looker.com/platform/blocks/analytic/daily-weekly-monthly-active-users)
 - [User activity and engagement](https://looker.com/platform/blocks/analytic/measuring-activity-and-engagement)
 - [Retention analysis](https://looker.com/platform/blocks/analytic/retention-analysis)
+
+## Guides
+- [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
