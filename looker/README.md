@@ -14,5 +14,11 @@
 - [User activity and engagement](https://looker.com/platform/blocks/analytic/measuring-activity-and-engagement)
 - [Retention analysis](https://looker.com/platform/blocks/analytic/retention-analysis)
 
+## Dashboards
+- [5 ways the new Looker dashboards make it easier to explore data (Oct 2020)](https://looker.com/blog/new-looker-dashboards)
+
+## Customise
+- [Looker UI Components](https://components.looker.com/): This library will help accelerate the development of custom data applications, with components from Looker’s internal design system that are now available in Figma and in React. As a developer, you’ll be able to use this library to create tailored experiences for administration pages, navigation forms, and more. If you’re an app designer, you’ll find it easier to design intuitive user experiences that have a more consistent look and feel for your data apps.
+
 ## Guides
 - [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
