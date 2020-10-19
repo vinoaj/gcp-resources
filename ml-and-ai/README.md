@@ -12,6 +12,9 @@
 ## AutoML
 - [How Kaggle solved a spam problem in 8 days using AutoML](https://cloud.google.com/blog/products/ai-machine-learning/how-kaggle-solved-a-spam-problem-using-automl)
 
+## Guides
+- [Beginners Guide to Painless Machine Learning](https://cloud.google.com/blog/products/ai-machine-learning/beginners-guide-to-painless-machine-learning)
+
 ## Training
 - [Learn with Google AI](https://ai.google/education/)
 - [Beginners guide to painless machine learning](https://cloud.google.com/blog/products/ai-machine-learning/beginners-guide-to-painless-machine-learning)
