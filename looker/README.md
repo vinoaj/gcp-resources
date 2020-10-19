@@ -22,3 +22,6 @@
 
 ## Guides
 - [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
+
+## Compare
+- [Better.com's evaluation of Looker vs. Tableau](https://looker.com/blog/choosing-the-right-bi-tool-for-the-right-use-case-at-better)
