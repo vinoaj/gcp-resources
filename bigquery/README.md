@@ -90,6 +90,8 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Compare
 - [BigQuery vs Redshift vs Snowflake](https://poplindata.com/data-warehouses/2020-database-showdown-bigquery-vs-redshift-vs-snowflake/)
+- [BigQuery vs Snowflake vs Vertica](https://cloud.google.com/blog/products/data-analytics/e-commerce-data-warehouse-migration)
+![BigQuery vs Snowflake vs Vertica](https://storage.googleapis.com/gweb-cloudblog-publish/images/Trendyol_results.max-900x900.jpg)
 - [Guidance on evaluating data warehouses](https://medium.com/@vtereshko/data-warehouse-evaluations-should-take-a-page-out-of-sports-e5b5bfe6279a): TCP-* benchmark tests just aren't enough
 - [Evaluating separation of storage and compute](https://medium.com/@vtereshko/approximatish-separation-of-storage-and-compute-in-data-warehouses-b0a1329569e4)
 
