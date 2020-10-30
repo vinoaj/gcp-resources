@@ -18,6 +18,7 @@
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
+- [MLB uses Google Cloud Smart Analytics platform to scale data insights](https://cloud.google.com/blog/products/data-analytics/how-mlb-is-using-data-analytics-on-google-cloud)
 
 ## Under the Hood
 - [Multi-language Dataflow pipelines enabled by new, faster architecture](https://cloud.google.com/blog/products/data-analytics/multi-language-sdks-for-building-cloud-pipelines)
