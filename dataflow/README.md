@@ -14,6 +14,7 @@
 ![Flex templates](https://storage.googleapis.com/gweb-cloudblog-publish/images/4_Sharing_a_Dataflow_pipeline_with_classic.max-1100x1100.jpg)
 
 ## Tools
+- [Klio (by Spotify)](https://github.com/spotify/klio): a framework built on top of Apache Beam for Python that helps researchers and engineers alike run large-scale data pipelines for processing audio and other media files ([intro blog post](https://cloud.google.com/blog/products/data-analytics/try-spotifys-internal-os-tool-for-media-processing-in-beam)).
 - [Dataflow Launcher (by Qubit)](https://github.com/QubitProducts/dataflow_launcher): A Python library to seamlessly launch dataflow jobs without worrying about paths, options, updates, and pubsub creation. This lets you localize your pipeline configurations in simple, easy-to-read and manageable config files, making it simple to update the pipeline options. It also means that configurations for different execution environments, such as staging or production, can be kept separately in their own configuration files, further simplifying integration with CI/CD tools.
 
 ## Case Studies
