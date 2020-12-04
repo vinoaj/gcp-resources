@@ -7,7 +7,8 @@
 
 ## Guides
 - [Calling Google Cloud Machine Learning APIs from Batch and Stream ETL pipelines](https://medium.com/google-cloud/calling-google-cloud-machine-learning-apis-from-batch-and-stream-etl-pipelines-9a789ac6f972)
-- [Pro tips for Google Cloud Dataflow & BigQuery](https://polleyg.dev/posts/data-engineering-tips/)
+- [Machine learning patterns with Apache Beam and the Dataflow Runner, part I](https://cloud.google.com/blog/products/data-analytics/ml-inference-in-dataflow-pipelines)
+- [Pro tips for Google Cloud Dataflow & BigQuery (Graham Polley)](https://polleyg.dev/posts/data-engineering-tips/)
 
 ## Templates
 - [Flex templates](https://cloud.google.com/blog/products/data-analytics/create-templates-from-any-dataflow-pipeline)
