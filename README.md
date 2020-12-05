@@ -35,6 +35,7 @@ This repository houses links to useful resources related to operating successful
 
 ## Billing and cost control
 - [Best practices for optimizing your cloud costs](https://cloud.google.com/blog/products/gcp/best-practices-for-optimizing-your-cloud-costs)
+- [Principles of Cost Optimization (PDF)](https://services.google.com/fh/files/misc/understanding_the_principles_of_cost_optimization_2020_whitepaper_google_cloud.pdf)
 
 ## Sustainability
 - [Here's Who Has the Greenest Cloud (wired.com)](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
