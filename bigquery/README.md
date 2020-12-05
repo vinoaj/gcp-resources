@@ -73,6 +73,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
     - ![](https://storage.googleapis.com/gweb-cloudblog-publish/images/3_slots_and_on-demand.max-1200x1200.jpg)
 - [Effectively using BigQuery Reservations](https://cloud.google.com/blog/products/data-analytics/effectively-using-bigquery-reservations)
 - [How to right-size your flat-rate and flex slots reservations in BigQuery](https://medium.com/google-cloud/how-to-move-from-on-demand-pricing-to-reservations-in-bigquery-65552cbebd45)
+- [Principles of Cost Optimization (PDF)](https://services.google.com/fh/files/misc/understanding_the_principles_of_cost_optimization_2020_whitepaper_google_cloud.pdf)
 
 ### Pricing best practices
 - The recommended best practice for BigQuery Reservations is to maintain a dedicated project for administering the reservations.
@@ -88,6 +89,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [How Unity analyzes petabytes of data in BigQuery for reporting and ML initiatives](https://cloud.google.com/blog/products/data-analytics/cloud-data-warehouse-for-ml-advanced-analytics)
 - [A tale of two data warehouses — News UK’s data platform migration to Google Cloud (Part 1)](https://medium.com/news-uk-technology/a-tale-of-two-data-warehouses-newsuks-data-platform-migration-to-google-cloud-part-1-be1bc0ff09d8) [(Part 2)](https://medium.com/news-uk-technology/a-tale-of-two-data-warehouses-news-uks-data-platform-migration-to-google-cloud-part-2-2aae617899a0)
 - [MLB's fan data team hits it out of the park with data warehouse modernization](https://cloud.google.com/blog/products/data-analytics/mlb-moves-to-bigquery-data-warehouse)
+- [MLB uses Google Cloud Smart Analytics platform to scale data insights](https://cloud.google.com/blog/products/data-analytics/how-mlb-is-using-data-analytics-on-google-cloud)
 
 ## Compare
 - [BigQuery vs Redshift vs Snowflake](https://poplindata.com/data-warehouses/2020-database-showdown-bigquery-vs-redshift-vs-snowflake/)
