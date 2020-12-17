@@ -5,3 +5,8 @@ From [Top 10 AI Use Cases in Retail](https://cloud.google.com/blog/products/ai-m
 
 ## Consumer Behaviour
 - [COVID-19 has made consumer decision-making even more complicated. Here’s what you need to know (Nov 2020)](https://www.thinkwithgoogle.com/intl/en-aunz/consumer-insights/consumer-trends/covid-19-has-made-consumer-decision-making-even-more-complicated-heres-what-you-need-to-know/)
+    - Keep an eye on trending categories, and integrate into your navigation menus
+    - Make social sharing easy
+    - Be an authority
+    - Avoid scarcity through better demand forecasting
+    - Be time efficient
