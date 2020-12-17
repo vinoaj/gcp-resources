@@ -10,3 +10,6 @@ From [Top 10 AI Use Cases in Retail](https://cloud.google.com/blog/products/ai-m
     - Be an authority
     - Avoid scarcity through better demand forecasting
     - Be time efficient
+
+## Tools
+- [MarkUp](https://github.com/google/shopping-markup): built for Google Shopping customers to take actionable data-driven decisions to improve their feed health and shopping ads performance
