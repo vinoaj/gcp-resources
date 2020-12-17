@@ -46,6 +46,8 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - Job data is retained for 180 days. If you want to maintain a backup of historical data, use scheduled queries to export the data to a partitioned table. 
 - [Sample `INFORMATION_SCHEMA` queries](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/data-engineering/demos/information_schema.md)
 - [BigQuery System Tables Reports (Data Studio)](https://github.com/GoogleCloudPlatform/bigquery-utils/tree/master/dashboards/system_tables)
+- [BigTips: INFORMATION_SCHEMA Views in BigQuery](https://medium.com/google-cloud/bigtips-information-schema-views-in-bigquery-2f0781766bb4)
+- [BigTips: INFORMATION_SCHEMA Views in BigQuery, Part 2, with extra Scripts and Procedures!](https://medium.com/google-cloud/bigtips-information-schema-views-in-bigquery-part-2-with-extra-scripts-and-procedures-53893203e35)
 
 ### Stackdriver
 - Allows for real-time slot usage monitoring
