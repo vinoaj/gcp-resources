@@ -8,6 +8,9 @@
 ### Switch projects
 `gcloud config set project <PROJECT_NAME>`
 
+### List current project name
+`gcloud config list --format 'value(core.project)'`
+
 
 ## `gsutil` commands
 
