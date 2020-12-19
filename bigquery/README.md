@@ -6,6 +6,7 @@
 ## Concepts
 - [What is a slot?](https://cloud.google.com/bigquery/docs/slots)
 - [DML: what happens under the hood and best practices](https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery)
+- [BigQuery Explained: Data Manipulation (DML)](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-data-manipulation-dml)
 - [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
 - [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
 
@@ -85,6 +86,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Using BigQuery DML & External Temporary Tables To Perform Realtime Reformatting Inserts For Television News Ngrams](https://blog.gdeltproject.org/using-bigquery-dml-external-temporary-tables-to-perform-realtime-reformatting-inserts-for-television-news-ngrams/)
 - [Building a Data Platform to Enable Analytics and AI-Driven Innovation](https://medium.com/swlh/building-a-data-platform-to-enable-analytics-and-ai-driven-innovation-1bd95e37efb9)
 - [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
+- [What’s the weather like? Using Colab to get more out of BigQuery](https://cloud.google.com/blog/products/data-analytics/whats-the-weather-like-using-colab-to-get-more-out-of-bigquery)
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
