@@ -4,6 +4,7 @@
 - [BigQuery public datasets](https://pantheon.corp.google.com/marketplace/browse?filter=solution-type:dataset)
 
 ## Concepts
+- [BigQuery explained: Blog series](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)
 - [What is a slot?](https://cloud.google.com/bigquery/docs/slots)
 - [DML: what happens under the hood and best practices](https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery)
 - [BigQuery Explained: Data Manipulation (DML)](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-data-manipulation-dml)
