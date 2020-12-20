@@ -15,6 +15,7 @@
 ## Guides
 - [Beginners Guide to Painless Machine Learning](https://cloud.google.com/blog/products/ai-machine-learning/beginners-guide-to-painless-machine-learning)
 - [What’s the weather like? Using Colab to get more out of BigQuery](https://cloud.google.com/blog/products/data-analytics/whats-the-weather-like-using-colab-to-get-more-out-of-bigquery)
+- [Using Google’s Cloud AI APIs To Watch, Visualize & Forecast The World In Realtime (Oct 2020)](https://www.youtube.com/watch?v=0jAcPwKS9wM)
 
 ## Training
 - [Learn with Google AI](https://ai.google/education/)
