@@ -5,6 +5,7 @@
     - Access request and role-based access control: folders + Cloud IAM roles
     - Separation of duties (SoD): org-level roles
     - Reporting and access views: export IAM policies to BigQuery for analysis
+- [Stop Downloading Google Cloud Service Account Keys!](https://medium.com/@jryancanty/stop-downloading-google-cloud-service-account-keys-1811d44a97d9)
 - [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
 - [Google Cloud Security Showcase](https://www.youtube.com/playlist?list=PLBgogxgQVM9tEGqcLF7DL_Q0sst5RvPLn)
 - [Under the hood: The security analytics that drive IAM recommendations on Google Cloud](https://cloud.google.com/blog/products/identity-security/the-security-analytics-that-deliver-iam-recommendations). Related article: [Exploring the machine learning models behind Cloud IAM Recommender](https://cloud.google.com/blog/products/identity-security/exploring-the-machine-learning-models-behind-cloud-iam-recommender)
