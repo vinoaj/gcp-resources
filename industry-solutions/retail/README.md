@@ -13,3 +13,6 @@ From [Top 10 AI Use Cases in Retail](https://cloud.google.com/blog/products/ai-m
 
 ## Tools
 - [MarkUp](https://github.com/google/shopping-markup): built for Google Shopping customers to take actionable data-driven decisions to improve their feed health and shopping ads performance
+
+## Solutions
+- [Vision API Product Search demo](https://github.com/williamtsoi1/vision-api-product-search-demo)
