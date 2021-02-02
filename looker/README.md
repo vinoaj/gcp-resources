@@ -22,6 +22,7 @@
 
 ## Guides
 - [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
+- [e-book: The Four-Step Blueprint for a Successful Data Culture](https://discover.looker.com/rs/131-VDZ-197/images/BlueprintforaSuccessfulDataCultureEbook.pdf)
 
 ## Compare
 - [Better.com's evaluation of Looker vs. Tableau](https://looker.com/blog/choosing-the-right-bi-tool-for-the-right-use-case-at-better)

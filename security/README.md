@@ -9,3 +9,4 @@
 - [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
 - [Google Cloud Security Showcase](https://www.youtube.com/playlist?list=PLBgogxgQVM9tEGqcLF7DL_Q0sst5RvPLn)
 - [Under the hood: The security analytics that drive IAM recommendations on Google Cloud](https://cloud.google.com/blog/products/identity-security/the-security-analytics-that-deliver-iam-recommendations). Related article: [Exploring the machine learning models behind Cloud IAM Recommender](https://cloud.google.com/blog/products/identity-security/exploring-the-machine-learning-models-behind-cloud-iam-recommender)
+- [The cloud trust paradox: 3 scenarios where keeping encryption keys off the cloud may be necessary](https://cloud.google.com/blog/products/identity-security/3-scenarios-where-keeping-encryption-keys-off-the-cloud-may-be-necessary)
