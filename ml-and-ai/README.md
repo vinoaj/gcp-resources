@@ -17,6 +17,9 @@
 - [What’s the weather like? Using Colab to get more out of BigQuery](https://cloud.google.com/blog/products/data-analytics/whats-the-weather-like-using-colab-to-get-more-out-of-bigquery)
 - [Using Google’s Cloud AI APIs To Watch, Visualize & Forecast The World In Realtime (Oct 2020)](https://www.youtube.com/watch?v=0jAcPwKS9wM)
 
+## Tools
+- [What-If Tool](https://pair-code.github.io/what-if-tool/): Using WIT, you can test performance in hypothetical situations, analyze the importance of different data features, and visualize model behavior across multiple models and subsets of input data, and for different ML fairness metrics.
+
 ## Training
 - [Learn with Google AI](https://ai.google/education/)
 - [Beginners guide to painless machine learning](https://cloud.google.com/blog/products/ai-machine-learning/beginners-guide-to-painless-machine-learning)

@@ -74,15 +74,16 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Loading and transforming data into BigQuery using dbt](https://medium.com/@lakshmanok/loading-and-transforming-data-into-bigquery-using-dbt-65307ad401cd)
 - [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
 
-## Pricing
+## Pricing & cost management
 - [Choosing between BigQuery on-demand and flat rate pricing](https://cloud.google.com/blog/products/data-analytics/choosing-bigquery-pricing)
 - [Optimize BigQuery costs with Flex Slots](https://cloud.google.com/blog/products/data-analytics/optimize-bigquery-costs-with-flex-slots)
     - ![](https://storage.googleapis.com/gweb-cloudblog-publish/images/3_slots_and_on-demand.max-1200x1200.jpg)
 - [Effectively using BigQuery Reservations](https://cloud.google.com/blog/products/data-analytics/effectively-using-bigquery-reservations)
 - [How to right-size your flat-rate and flex slots reservations in BigQuery](https://medium.com/google-cloud/how-to-move-from-on-demand-pricing-to-reservations-in-bigquery-65552cbebd45)
+- [Reducing BigQuery production cost by 70% with Flex Slots](https://engineering.chartboost.com/reducing-bigquery-production-cost-by-70-with-flex-slots-97a79a2918f8)
 - [Principles of Cost Optimization (PDF)](https://services.google.com/fh/files/misc/understanding_the_principles_of_cost_optimization_2020_whitepaper_google_cloud.pdf)
 
-### Pricing best practices
+### Pricing & cost management best practices
 - The recommended best practice for BigQuery Reservations is to maintain a dedicated project for administering the reservations.
 
 ## Guides & HowTos
