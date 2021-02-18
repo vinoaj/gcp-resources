@@ -25,6 +25,7 @@
 
 ## Under the Hood
 - [Multi-language Dataflow pipelines enabled by new, faster architecture](https://cloud.google.com/blog/products/data-analytics/multi-language-sdks-for-building-cloud-pipelines)
+- [Dataflow Under the Hood: the origin story](https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works)
 - [Dataflow Under the Hood: understanding Dataflow techniques](https://cloud.google.com/blog/products/data-analytics/cloud-batch-and-stream-processing-for-analytics)
 - [Dataflow Under the Hood: comparing Dataflow with other tools](https://cloud.google.com/blog/products/data-analytics/dataflow-vs-other-stream-batch-processing-engines)
 
