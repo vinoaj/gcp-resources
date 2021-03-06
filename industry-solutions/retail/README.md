@@ -16,3 +16,6 @@ From [Top 10 AI Use Cases in Retail](https://cloud.google.com/blog/products/ai-m
 
 ## Solutions
 - [Vision API Product Search demo](https://github.com/williamtsoi1/vision-api-product-search-demo)
+
+## Case Studies
+- [IKEA Google Cloud Showcase](https://showcase.withgoogle.com/ikea)
