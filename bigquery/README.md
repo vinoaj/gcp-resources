@@ -105,6 +105,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [MLB uses Google Cloud Smart Analytics platform to scale data insights](https://cloud.google.com/blog/products/data-analytics/how-mlb-is-using-data-analytics-on-google-cloud)
 
 ## Compare
+- [Google BigQuery is a Leader in The 2021 Forrester Wave: Cloud Data Warehouse](https://cloud.google.com/blog/products/data-analytics/google-cloud-a-leader-in-2021-forrester-wave-cloud-data-warehouse)
 - [BigQuery vs Redshift vs Snowflake](https://poplindata.com/data-warehouses/2020-database-showdown-bigquery-vs-redshift-vs-snowflake/)
 - [Which data warehouse works best for geospatial processing? (NGIS)](https://content.ngis.com.au/which-data-warehouse-works-best-for-geospatial-processing)
 - [BigQuery vs Snowflake vs Vertica](https://cloud.google.com/blog/products/data-analytics/e-commerce-data-warehouse-migration)
