@@ -95,6 +95,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Architecting a data lineage system for BigQuery](https://cloud.google.com/blog/products/data-analytics/architecting-a-data-lineage-system-for-bigquery)
 - [How to trigger Cloud Run actions on BigQuery events](https://cloud.google.com/blog/topics/developers-practitioners/how-trigger-cloud-run-actions-bigquery-events)
 - [How to use BigQuery ML for anomaly detection](https://cloud.google.com/blog/products/data-analytics/how-to-use-bigquery-ml-for-anomaly-detection)
+- [Unlock geospatial insights with Data Studio and BigQuery GIS](https://cloud.google.com/blog/products/data-analytics/geospatial-insights-bigquery-gis-and-data-studio-choropleth). Useful GIS tips.
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
