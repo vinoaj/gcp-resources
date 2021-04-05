@@ -100,6 +100,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
 - [How Twitter's Data Analytics Platform team uses BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery.html)
+- [Data champions: How the Golden State Warriors are turning on-court data into a competitive advantage](https://cloud.google.com/blog/products/data-analytics/warriors-use-on-court-data-for-competitive-edge)
 - [How Unity analyzes petabytes of data in BigQuery for reporting and ML initiatives](https://cloud.google.com/blog/products/data-analytics/cloud-data-warehouse-for-ml-advanced-analytics)
 - [The evolution of data architecture at The New York Times](https://cloud.google.com/blog/products/data-analytics/how-the-new-york-times-build-an-end-to-end-cloud-data-platform)
 - [A tale of two data warehouses — News UK’s data platform migration to Google Cloud (Part 1)](https://medium.com/news-uk-technology/a-tale-of-two-data-warehouses-newsuks-data-platform-migration-to-google-cloud-part-1-be1bc0ff09d8) [(Part 2)](https://medium.com/news-uk-technology/a-tale-of-two-data-warehouses-news-uks-data-platform-migration-to-google-cloud-part-2-2aae617899a0)
@@ -114,6 +115,11 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 ![BigQuery vs Snowflake vs Vertica](https://storage.googleapis.com/gweb-cloudblog-publish/images/Trendyol_results.max-900x900.jpg)
 - [Guidance on evaluating data warehouses](https://medium.com/@vtereshko/data-warehouse-evaluations-should-take-a-page-out-of-sports-e5b5bfe6279a): TCP-* benchmark tests just aren't enough
 - [Evaluating separation of storage and compute](https://medium.com/@vtereshko/approximatish-separation-of-storage-and-compute-in-data-warehouses-b0a1329569e4)
+- [Why Verizon Media picked BigQuery for scale, performance and cost](https://cloud.google.com/blog/products/data-analytics/benchmarking-cloud-data-warehouse-bigquery-to-scale-fast)
+![MAW usage of BigQuery](https://storage.googleapis.com/gweb-cloudblog-publish/images/MAW_usage_of_BQ.0361026107230502.max-1000x1000.jpg)
+![Query performance test results](https://storage.googleapis.com/gweb-cloudblog-publish/images/Query_Performance_Test_Results_1.max-1300x1300.jpg)
+![Concurrency performance](https://storage.googleapis.com/gweb-cloudblog-publish/images/concurrency_benchmark.max-1000x1000.jpg)
+![Overall results](https://storage.googleapis.com/gweb-cloudblog-publish/images/proof_of_concept.max-800x800.jpg)
 
 ## History
 - [Meet the BigQuery founding engineers](https://www.youtube.com/watch?v=ngaUTCQfvYA)
