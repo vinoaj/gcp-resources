@@ -11,6 +11,10 @@
 - [How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/)
 - [Pro tips for Google Cloud Dataflow & BigQuery (Graham Polley)](https://polleyg.dev/posts/data-engineering-tips/)
 
+## Training
+- [Beam College](https://beamcollege.dev): free training resources
+- [Beam College YouTube channel](https://www.youtube.com/channel/UC4OW4U57YFI0haAYKPfGS6g)
+
 ## Templates
 - [Flex templates](https://cloud.google.com/blog/products/data-analytics/create-templates-from-any-dataflow-pipeline)
 ![Flex templates](https://storage.googleapis.com/gweb-cloudblog-publish/images/4_Sharing_a_Dataflow_pipeline_with_classic.max-1100x1100.jpg)
