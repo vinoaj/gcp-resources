@@ -22,9 +22,6 @@
 ## SQL
 - [How to use Dynamic SQL in BigQuery](https://towardsdatascience.com/how-to-use-dynamic-sql-in-bigquery-8c04dcc0f0de)
 
-## Training
-- [BigQuery quests on Qwiklabs](https://google.qwiklabs.com/catalog?keywords=bigquery)
-
 ## Security
 - [Data deletion and retention with crypto-shredding (Part 1)](https://medium.com/google-cloud/bigquery-encryption-functions-part-i-data-deletion-retention-with-crypto-shredding-7085ecf6e53f), [(Part 2)](https://medium.com/google-cloud/end-to-end-crypto-shredding-part-ii-data-deletion-retention-with-crypto-shredding-a67f5300a8c8)
 
@@ -123,3 +120,10 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## History
 - [Meet the BigQuery founding engineers](https://www.youtube.com/watch?v=ngaUTCQfvYA)
+
+## Training
+- [BigQuery quests on Qwiklabs](https://google.qwiklabs.com/catalog?keywords=bigquery)
+
+### Free Qwiklab Modules
+- [Troubleshooting Common SQL Errors](https://www.qwiklabs.com/focuses/3642)
+- [Exploring Your Ecommerce Dataset with SQL](https://www.qwiklabs.com/focuses/3618)
