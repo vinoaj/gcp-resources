@@ -38,6 +38,7 @@ This repository houses links to useful resources related to operating successful
 - [Principles of Cost Optimization (PDF)](https://services.google.com/fh/files/misc/understanding_the_principles_of_cost_optimization_2020_whitepaper_google_cloud.pdf)
 
 ## Sustainability
+- [Carbon data by GCP region](https://cloud.google.com/sustainability/region-carbon)
 - [Here's Who Has the Greenest Cloud (wired.com)](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
 
 ## Pricing
