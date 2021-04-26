@@ -5,3 +5,6 @@
 
 ## History
 - [Spanner’s SQL Story](https://medium.com/google-cloud/spanners-sql-story-79bda8bb632d)
+
+## Case Studies / Customer References
+- [Seven-Eleven Japan uses Google Cloud to serve up real-time data for fast business decisions](https://cloud.google.com/blog/products/data-analytics/how-7-eleven-japan-built-its-new-data-platform)
