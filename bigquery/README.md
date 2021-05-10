@@ -6,6 +6,7 @@
 ## Concepts
 - [BigQuery explained: Blog series](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)
 - [What is a slot?](https://cloud.google.com/bigquery/docs/slots)
+- [In-memory query execution in Google BigQuery](https://cloud.google.com/blog/products/bigquery/in-memory-query-execution-in-google-bigquery)
 - [DML: what happens under the hood and best practices](https://cloud.google.com/blog/products/data-analytics/dml-without-limits-now-in-bigquery)
 - [BigQuery Explained: Data Manipulation (DML)](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-data-manipulation-dml)
 - [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
@@ -30,6 +31,7 @@
 - [bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful UDFs, scripts, and views for working with Google BigQuery
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
 - [BigQuery Query Plan Visualizer](https://bqvisualiser.appspot.com/): provides a web application which can be used to visualise the flow of execution stages within a BigQuery job. This may be useful in identifying problematic stages and provides greater usability for large query plans than the default query plan explanation in the Google Cloud Console. The source code is available [here](https://github.com/smeyn/professional-services/tree/master/tools/bq-visualizer).
+- [Cloud Data Quality Engine (CloudDQ)](https://github.com/GoogleCloudPlatform/cloud-data-quality)
 - [JMeter BigQuery Performance Testing](https://github.com/GoogleCloudPlatform/bigquery-utils/tree/master/performance_testing/jmeter)
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
 - [Fake PII table creator](https://github.com/mesmacosta/bq-fake-pii-table-creator): scripts to generate tables with fake PII (e.g. names, phone numbers, etc.). Useful for testing out DLP.
