@@ -8,6 +8,7 @@
 ## Guides
 - [Calling Google Cloud Machine Learning APIs from Batch and Stream ETL pipelines](https://medium.com/google-cloud/calling-google-cloud-machine-learning-apis-from-batch-and-stream-etl-pipelines-9a789ac6f972)
 - [Machine learning patterns with Apache Beam and the Dataflow Runner, part I](https://cloud.google.com/blog/products/data-analytics/ml-inference-in-dataflow-pipelines)
+- [Using TFX inference with Dataflow for large scale ML inference patterns, part II](https://cloud.google.com/blog/topics/developers-practitioners/using-tfx-inference-dataflow-large-scale-ml-inference-patterns)
 - [How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/)
 - [Pro tips for Google Cloud Dataflow & BigQuery (Graham Polley)](https://polleyg.dev/posts/data-engineering-tips/)
 
