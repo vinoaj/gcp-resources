@@ -2,6 +2,8 @@
 
 ## LookML
 - [Getting to know Looker: How LookML can simplify BI workflows](https://cloud.google.com/blog/products/data-analytics/how-lookml-can-simplify-bi-workflows)
+- [LookML Style Guide](https://looker-open-source.github.io/look-at-me-sideways/rules.html)
+- [Why and how to create modular LookML models](https://looker.com/blog/create-modular-lookml-models)
 
 ## Blocks
 ### Retail use cases
