@@ -77,6 +77,9 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Loading and transforming data into BigQuery using dbt](https://medium.com/@lakshmanok/loading-and-transforming-data-into-bigquery-using-dbt-65307ad401cd)
 - [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
 
+## Stored procedures
+- [Quickly create BigQuery demo/dev environments using SQL](https://lakshmanok.medium.com/quickly-create-bigquery-demo-dev-environments-using-sql-b14f734f7f96)
+
 ## Pricing & cost management
 - [Choosing between BigQuery on-demand and flat rate pricing](https://cloud.google.com/blog/products/data-analytics/choosing-bigquery-pricing)
 - [Optimize BigQuery costs with Flex Slots](https://cloud.google.com/blog/products/data-analytics/optimize-bigquery-costs-with-flex-slots)
