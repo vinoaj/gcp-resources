@@ -25,6 +25,7 @@
 - [Stack Overflow in 2023: Predicting with ARIMA and BigQuery](https://towardsdatascience.com/stack-overflow-future-trends-predicting-with-arima-and-bigquery-77d330833329)
 - [Using BigQuery (and BigQuery ML) from Kubeflow Pipelines](https://medium.com/google-cloud/using-bigquery-and-bigquery-ml-from-kubeflow-pipelines-991a2fa4bea8)
 - [How to export a BigQuery ML model and deploy it for online prediction](https://towardsdatascience.com/how-to-export-a-bigquery-ml-model-and-deploy-it-for-online-prediction-a7e4d44c4c93)
+- [Continuous model evaluation with BigQuery ML, Stored Procedures, and Cloud Scheduler](https://cloud.google.com/blog/topics/developers-practitioners/continuous-model-evaluation-bigquery-ml-stored-procedures-and-cloud-scheduler)
 
 ## SQL
 - [How to use Dynamic SQL in BigQuery](https://towardsdatascience.com/how-to-use-dynamic-sql-in-bigquery-8c04dcc0f0de)
