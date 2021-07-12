@@ -30,6 +30,7 @@
 - [Applied ML Summit](https://cloudonair.withgoogle.com/events/summit-ml-practitioners) (11 June 2021) content
 - [AI Simplified](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ1YuMdGjRwJ3fFYZ_vWQ62)(YouTube playlist)
 - [AI & ML with Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)(YouTube playlist)
+- [What's new in Machine Learning (Google I/O Keynote)](https://www.youtube.com/watch?v=qKkjCQlS1g4) (2021-05)
 
-## Content from Google I/O 2021 (May '21)
-- [What's new in Machine Learning (Keynote)](https://www.youtube.com/watch?v=qKkjCQlS1g4)
+## Documentation
+- [`google_cloud_pipeline_components`](https://google-cloud-pipeline-components.readthedocs.io/en/google-cloud-pipeline-components-0.1.2/google_cloud_pipeline_components.aiplatform.html#module-google_cloud_pipeline_components.aiplatform) documentation
