@@ -9,9 +9,10 @@
 - [Serve a TensorFlow Hub model in Google Cloud with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/serve-tensorflow-model-google-cloud-vertex-ai)
 - [Streamline your ML training workflow with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/streamline-your-ml-training-workflow-vertex-ai)
 
-## Notebooks
+## Notebooks & Code Samples
 - [Sample notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified)
 - [Feature store notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified/notebooks/official/feature_store)
+- [API code snippets](https://github.com/googleapis/python-aiplatform/tree/master/samples/snippets) (Python)
 
 ## Codelabs
 - [Build and deploy a model with Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models) ([accompanying video](https://www.youtube.com/watch?v=aB2OxnyfP0c))
