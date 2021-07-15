@@ -13,6 +13,7 @@
 - [Sample notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified)
 - [Feature store notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified/notebooks/official/feature_store)
 - [API code snippets](https://github.com/googleapis/python-aiplatform/tree/master/samples/snippets) (Python)
+- [EDA to working Vertex AI pipeline](https://github.com/jy2k/From-EDA-to-pipeline)
 
 ## Codelabs
 - [Build and deploy a model with Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models) ([accompanying video](https://www.youtube.com/watch?v=aB2OxnyfP0c))
