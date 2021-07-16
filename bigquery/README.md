@@ -15,6 +15,7 @@
 - [Colossus under the hood: a peek into Google’s scalable storage system](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)
 - [The BigQuery admin reference guide: Resource Hierarchy](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-resource-hierarchy)
 - [BigQuery admin reference guide: Tables & routines](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-tables-routines)
+- [BigQuery Admin reference guide: Jobs & reservation model](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model)
 
 ## Machine Learning (BigQuery ML)
 - [Unsupervised anomaly detection for time series and non-time series data](https://cloud.google.com/blog/products/data-analytics/bigquery-ml-unsupervised-anomaly-detection)
