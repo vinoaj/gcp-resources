@@ -29,3 +29,4 @@
 
 ## Case Studies
 - [Scaled Machine Learning with Google Cloud @ ANZ](https://www.linkedin.com/pulse/scaled-machine-learning-google-cloud-anz-leo-mao/)
+- [Neighborhood Hero Builds AI-Powered Device That Automatically Compliments Dogs Walking By](https://gizmodo.com/neighborhood-hero-builds-ai-powered-device-that-automat-1846562170)
