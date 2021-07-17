@@ -8,6 +8,8 @@
 ## Guides
 - [Serve a TensorFlow Hub model in Google Cloud with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/serve-tensorflow-model-google-cloud-vertex-ai)
 - [Streamline your ML training workflow with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/streamline-your-ml-training-workflow-vertex-ai)
+- [Hyperparameter tuning BigQuery ML](https://medium.com/google-cloud/hyperparameter-tuning-directly-within-bigquery-ml-a0affb0991ae)
+
 
 ## Notebooks & Code Samples
 - [Sample notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified)
