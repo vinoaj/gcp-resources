@@ -26,6 +26,8 @@
 ## Training
 - [Learn with Google AI](https://ai.google/education/)
 - [Beginners guide to painless machine learning](https://cloud.google.com/blog/products/ai-machine-learning/beginners-guide-to-painless-machine-learning)
+- [Making Friends with Machine Learning](https://www.youtube.com/watch?v=fgF6XzcK3jw&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) (video series). Training content by Cassie Kozyrkov, Google's Chief Decision Scientist. This was an internal-only Google course, and is now being shared with a wider audience. The course is designed to give everyone — no matter your role — the tools you need for effective participation in machine learning for solving business problems and for being a good citizen in an increasingly AI-fueled world. You can find out more about the course in this [accompanying blog post](https://towardsdatascience.com/making-friends-with-machine-learning-5e28d5205a29)
+
 
 ## Case Studies
 - [Scaled Machine Learning with Google Cloud @ ANZ](https://www.linkedin.com/pulse/scaled-machine-learning-google-cloud-anz-leo-mao/)
