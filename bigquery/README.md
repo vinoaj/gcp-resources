@@ -16,6 +16,7 @@
 - [The BigQuery admin reference guide: Resource Hierarchy](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-resource-hierarchy)
 - [BigQuery admin reference guide: Tables & routines](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-tables-routines)
 - [BigQuery Admin reference guide: Jobs & reservation model](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model)
+- [BigQuery Admin reference guide: Storage internals](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-storage)
 
 ## Machine Learning (BigQuery ML)
 - [Unsupervised anomaly detection for time series and non-time series data](https://cloud.google.com/blog/products/data-analytics/bigquery-ml-unsupervised-anomaly-detection)
@@ -28,6 +29,7 @@
 - [Using BigQuery (and BigQuery ML) from Kubeflow Pipelines](https://medium.com/google-cloud/using-bigquery-and-bigquery-ml-from-kubeflow-pipelines-991a2fa4bea8)
 - [How to export a BigQuery ML model and deploy it for online prediction](https://towardsdatascience.com/how-to-export-a-bigquery-ml-model-and-deploy-it-for-online-prediction-a7e4d44c4c93)
 - [Continuous model evaluation with BigQuery ML, Stored Procedures, and Cloud Scheduler](https://cloud.google.com/blog/topics/developers-practitioners/continuous-model-evaluation-bigquery-ml-stored-procedures-and-cloud-scheduler)
+- [Hyperparameter tuning BigQuery ML](https://medium.com/google-cloud/hyperparameter-tuning-directly-within-bigquery-ml-a0affb0991ae)
 
 ## SQL
 - [How to use Dynamic SQL in BigQuery](https://towardsdatascience.com/how-to-use-dynamic-sql-in-bigquery-8c04dcc0f0de)
