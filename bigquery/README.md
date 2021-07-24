@@ -42,6 +42,7 @@
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
 - [BigQuery Query Plan Visualizer](https://bqvisualiser.appspot.com/): provides a web application which can be used to visualise the flow of execution stages within a BigQuery job. This may be useful in identifying problematic stages and provides greater usability for large query plans than the default query plan explanation in the Google Cloud Console. The source code is available [here](https://github.com/smeyn/professional-services/tree/master/tools/bq-visualizer).
 - [Cloud Data Quality Engine (CloudDQ)](https://github.com/GoogleCloudPlatform/cloud-data-quality)
+- [Data Validation Tool](https://github.com/GoogleCloudPlatform/professional-services-data-validator)
 - [JMeter BigQuery Performance Testing](https://github.com/GoogleCloudPlatform/bigquery-utils/tree/master/performance_testing/jmeter)
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
 - [Fake PII table creator](https://github.com/mesmacosta/bq-fake-pii-table-creator): scripts to generate tables with fake PII (e.g. names, phone numbers, etc.). Useful for testing out DLP.
