@@ -2,7 +2,7 @@
 
 ## Best Practices
 - [Google Cloud’s AI Adoption Framework](https://services.google.com/fh/files/misc/ai_adoption_framework_whitepaper.pdf)
-- [Google's 25 Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [Google's 43 Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - [How to build a Machine Learning team](https://towardsdatascience.com/how-to-hire-a-machine-learning-team-b8055fff57f)
 - [Top 10 roles in AI and data science (Cassie Kozyrkov)](https://hackernoon.com/top-10-roles-for-your-data-science-team-e7f05d90d961)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost)
