@@ -8,6 +8,9 @@
 ## Feature Store
 - [Kickstart your organization’s ML application development flywheel with the Vertex Feature Store](https://cloud.google.com/blog/topics/developers-practitioners/kickstart-your-organizations-ml-application-development-flywheel-vertex-feature-store)
 
+## Model Monitoring
+- [Monitor models for training-serving skew with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai)
+
 ## Pipelines
 - [Use Vertex Pipelines to build an AutoML classification end-to-end workflow](https://cloud.google.com/blog/topics/developers-practitioners/use-vertex-pipelines-build-automl-classification-end-end-workflow)
 
