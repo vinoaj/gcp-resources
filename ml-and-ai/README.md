@@ -23,6 +23,7 @@
 
 ## Tools
 - [What-If Tool](https://pair-code.github.io/what-if-tool/): Using WIT, you can test performance in hypothetical situations, analyze the importance of different data features, and visualize model behavior across multiple models and subsets of input data, and for different ML fairness metrics.
+- [Know Your Data](https://knowyourdata.withgoogle.com/)(KYD): helps ML research, product and compliance teams understand datasets, with the goal of improving data quality, and thus helping to mitigate fairness and bias issues. KYD offers a range of features that allow users to explore and examine machine learning datasets — users can filter, group, and study correlations based on annotations already present in a given dataset. KYD also presents automatically computed labels from Google’s Cloud Vision API, providing users with a simple way to explore their data based on signals that weren’t originally present in the dataset. [Case study](https://ai.googleblog.com/2021/08/a-dataset-exploration-case-study-with.html)
 
 ## Training
 - [Learn with Google AI](https://ai.google/education/)
