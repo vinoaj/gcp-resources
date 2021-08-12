@@ -1,1 +1,2 @@
+- [How Cloud SQL makes data protection easy](https://cloud.google.com/blog/products/databases/breaking-down-cloud-sqls-3-fault-tolerance-mechanisms)
 - [Recovering from regional failure in 10 minutes or less](https://medium.com/google-cloud/cloud-sql-recovering-from-regional-failure-in-10-minutes-or-less-mysql-fc055540a8f0)
