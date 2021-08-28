@@ -121,6 +121,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [How to use BigQuery ML for anomaly detection](https://cloud.google.com/blog/products/data-analytics/how-to-use-bigquery-ml-for-anomaly-detection)
 - [Unlock geospatial insights with Data Studio and BigQuery GIS](https://cloud.google.com/blog/products/data-analytics/geospatial-insights-bigquery-gis-and-data-studio-choropleth). Useful GIS tips.
 - [Make informed decisions with Google Trends data](https://cloud.google.com/blog/topics/developers-practitioners/make-informed-decisions-google-trends-data)
+- [Learnings from Streaming 25 Billion Events to Google BigQuery](https://aride.medium.com/learnings-from-streaming-25-billion-events-to-google-bigquery-57ce81fa9898) (PayPal)
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
