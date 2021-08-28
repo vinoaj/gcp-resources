@@ -90,6 +90,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Federated data
 - [Replicating from Cloud Spanner to BigQuery at scale](https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-spanner-bigquery-scale)
+- [Real-time analytics made easy with Cloud Spanner federated queries with BigQuery](https://cloud.google.com/blog/products/databases/cloud-spanner-gets-stronger-with-bigquery-federated-queries)
 
 ## dbt
 - [Loading and transforming data into BigQuery using dbt](https://medium.com/@lakshmanok/loading-and-transforming-data-into-bigquery-using-dbt-65307ad401cd)
