@@ -88,6 +88,9 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [Database migration: Concepts and principles](https://cloud.google.com/solutions/database-migration-concepts-principles-part-1)
 - [Database replication to BigQuery using change data capture](https://cloud.google.com/solutions/database-replication-to-bigquery-using-change-data-capture)
 
+## Federated data
+- [Replicating from Cloud Spanner to BigQuery at scale](https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-spanner-bigquery-scale)
+
 ## dbt
 - [Loading and transforming data into BigQuery using dbt](https://medium.com/@lakshmanok/loading-and-transforming-data-into-bigquery-using-dbt-65307ad401cd)
 - [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
