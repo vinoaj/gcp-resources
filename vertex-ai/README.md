@@ -17,6 +17,7 @@
 
 ## Training
 - [7 tips for trouble-free ML model training](https://cloud.google.com/blog/products/ai-machine-learning/7-tips-for-trouble-free-ml-model-training)
+- [PyTorch on Google Cloud: How To train and tune PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai)
 
 ## Guides
 - [Serve a TensorFlow Hub model in Google Cloud with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/serve-tensorflow-model-google-cloud-vertex-ai)
