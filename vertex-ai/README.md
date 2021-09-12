@@ -14,6 +14,7 @@
 ## Pipelines
 - [Use Vertex Pipelines to build an AutoML classification end-to-end workflow](https://cloud.google.com/blog/topics/developers-practitioners/use-vertex-pipelines-build-automl-classification-end-end-workflow)
 - [Triggering ML pipeline runs](https://cloud.google.com/blog/topics/developers-practitioners/lets-get-it-started-triggering-ml-pipeline-runs)
+- [Scalable ML Workflows using PyTorch on Kubeflow Pipelines and Vertex Pipelines](https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines)
 
 ## Training
 - [7 tips for trouble-free ML model training](https://cloud.google.com/blog/products/ai-machine-learning/7-tips-for-trouble-free-ml-model-training)
