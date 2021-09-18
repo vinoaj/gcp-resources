@@ -53,5 +53,9 @@
 - [AI & ML with Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)(YouTube playlist)
 - [What's new in Machine Learning (Google I/O Keynote)](https://www.youtube.com/watch?v=qKkjCQlS1g4) (2021-05)
 
+## Case Studies
+- [Optimizing Waze ad delivery using TensorFlow over Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/optimizing-waze-ad-delivery-with-google-clouds-vertex-ai)
+- [How Digitec Galaxus trains and serves millions of personalized newsletters per week with TFX](https://blog.tensorflow.org/2021/08/how-digitec-galaxus-trains-and-serves-millions-of-personalized-newsletters-per-week-with-TFX.html)
+
 ## Documentation
 - [`google_cloud_pipeline_components`](https://google-cloud-pipeline-components.readthedocs.io/en/google-cloud-pipeline-components-0.1.2/google_cloud_pipeline_components.aiplatform.html#module-google_cloud_pipeline_components.aiplatform) documentation
