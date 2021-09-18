@@ -13,6 +13,7 @@
 - [10 top tips: Unleash your BigQuery superpowers](https://cloud.google.com/blog/products/data-analytics/top-bigquery-superpowers-for-cloud-data-analytics)
 - [15 things you didn't know about BigQuery (2016)](https://medium.com/google-cloud/15-awesome-things-you-probably-didnt-know-about-google-bigquery-6654841fa2dc): an oldie, but a goodie.
 - [Colossus under the hood: a peek into Google’s scalable storage system](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)
+- [BigQuery workload management best practices](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-workload-management-best-practices)
 - [BigQuery admin reference guide: Resource Hierarchy](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-resource-hierarchy)
 - [BigQuery admin reference guide: Tables & routines](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-tables-routines)
 - [BigQuery Admin reference guide: Jobs & reservation model](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model)
