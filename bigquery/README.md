@@ -88,6 +88,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [How do I move data from MySQL to BigQuery?](https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery): CDC methodology using Debezium -> Pub/Sub -> Dataflow -> BigQuery
 - [Database migration: Concepts and principles](https://cloud.google.com/solutions/database-migration-concepts-principles-part-1)
 - [Database replication to BigQuery using change data capture](https://cloud.google.com/solutions/database-replication-to-bigquery-using-change-data-capture)
+- [SQL Server SSRS, SSIS packages with Google Cloud BigQuery](https://cloud.google.com/blog/topics/data-warehousing/google-bigquery-and-sql-server-ssis-and-ssrs)
 
 ## Federated data
 - [Replicating from Cloud Spanner to BigQuery at scale](https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-spanner-bigquery-scale)
