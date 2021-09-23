@@ -24,6 +24,7 @@
 - [PyTorch on Google Cloud: How To train and tune PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai)
 
 ## Prediction / Serving
+- [Prediction Private Endpoints for fast and secure serving on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/creating-a-private-endpoint-on-vertex-ai)
 - [PyTorch on Google Cloud: How to deploy PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-deploy-pytorch-models-vertex-ai)
 
 ## Guides
