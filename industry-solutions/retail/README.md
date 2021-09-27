@@ -16,6 +16,7 @@ From [Top 10 AI Use Cases in Retail](https://cloud.google.com/blog/products/ai-m
 
 ## Solutions
 - [Vision API Product Search demo](https://github.com/williamtsoi1/vision-api-product-search-demo)
+- [Data Driven Price Optimization](https://cloud.google.com/blog/products/data-analytics/centralize-data-sources-into-bigquery-with-dataprep)
 
 ## Codelabs
 - [Optimizing the price of retail products](https://codelabs.developers.google.com/retail-price-optimization#0)
