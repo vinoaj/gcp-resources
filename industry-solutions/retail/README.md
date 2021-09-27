@@ -17,6 +17,9 @@ From [Top 10 AI Use Cases in Retail](https://cloud.google.com/blog/products/ai-m
 ## Solutions
 - [Vision API Product Search demo](https://github.com/williamtsoi1/vision-api-product-search-demo)
 
+## Codelabs
+- [Optimizing the price of retail products](https://codelabs.developers.google.com/retail-price-optimization#0)
+
 ## Case Studies
 - [Seven-Eleven Japan uses Google Cloud to serve up real-time data for fast business decisions](https://cloud.google.com/blog/products/data-analytics/how-7-eleven-japan-built-its-new-data-platform)
 - [IKEA Google Cloud Showcase](https://showcase.withgoogle.com/ikea)
