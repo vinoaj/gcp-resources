@@ -33,7 +33,7 @@
 - [Hyperparameter tuning BigQuery ML](https://medium.com/google-cloud/hyperparameter-tuning-directly-within-bigquery-ml-a0affb0991ae)
 - [Anomaly detection with TensorFlow Probability and Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/anomaly-detection-tensorflow-probability-and-vertex-ai)
 - [Google Cloud Vertex AI + Battlesnake: Using practical reinforcement learning to defeat your friends](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-vertex-ai-battlesnake-using-practical-reinforcement-learning-defeat-your-friends)
-
+- [Dual deployments on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai)
 
 ## Notebooks & Code Samples
 - [Sample notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified)
