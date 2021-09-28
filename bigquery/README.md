@@ -39,6 +39,7 @@
 
 ## SQL
 - [How to use Dynamic SQL in BigQuery](https://towardsdatascience.com/how-to-use-dynamic-sql-in-bigquery-8c04dcc0f0de)
+- [Optimizing your BigQuery incremental data ingestion pipelines](https://cloud.google.com/blog/products/data-analytics/optimizing-your-bigquery-incremental-data-ingestion-pipelines): optimising `MERGE` statements
 
 ## Security
 - [BigQuery Data Security & Governance Guide](https://cloud.google.com/bigquery/docs/data-governance)
