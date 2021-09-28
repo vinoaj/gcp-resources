@@ -41,6 +41,7 @@
 - [API code snippets](https://github.com/googleapis/python-aiplatform/tree/master/samples/snippets) (Python)
 - [EDA to working Vertex AI pipeline](https://github.com/jy2k/From-EDA-to-pipeline)
 - [Vertex AI with MLB Player Digital Engagement](https://www.kaggle.com/ryanholbrook/vertex-ai-with-mlb-player-digital-engagement#Hyperparameter-Tuning-with-Vizier): focusing on hyperparameter tuning with Vizier
+- [Dual deployments on Vertex AI](https://github.com/sayakpaul/Dual-Deployments-on-Vertex-AI) (accompanying [blog post](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai))
 
 ## Codelabs
 - [Build and deploy a model with Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models) ([accompanying video](https://www.youtube.com/watch?v=aB2OxnyfP0c))
