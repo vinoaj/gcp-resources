@@ -7,6 +7,7 @@
 
 ## Notebooks
 - [Notebooks security blueprint](https://cloud.google.com/blog/products/ai-machine-learning/ai-platform-notebooks-security-blueprint)
+- [Protecting confidential data in Notebooks](https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks)
 
 ## Feature Store
 - [Kickstart your organization’s ML application development flywheel with the Vertex Feature Store](https://cloud.google.com/blog/topics/developers-practitioners/kickstart-your-organizations-ml-application-development-flywheel-vertex-feature-store)
