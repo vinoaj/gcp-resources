@@ -67,6 +67,7 @@
 - [What's new in Machine Learning (Google I/O Keynote)](https://www.youtube.com/watch?v=qKkjCQlS1g4) (2021-05)
 
 ## Case Studies
+- [Coca-Cola Bottlers Japan collects insights from 700,000 vending machines with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/coca-cola-bottlers-japan-collects-insights-700000-vending-machines-vertex-ai)
 - [Optimizing Waze ad delivery using TensorFlow over Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/optimizing-waze-ad-delivery-with-google-clouds-vertex-ai)
 - [How Digitec Galaxus trains and serves millions of personalized newsletters per week with TFX](https://blog.tensorflow.org/2021/08/how-digitec-galaxus-trains-and-serves-millions-of-personalized-newsletters-per-week-with-TFX.html)
 
