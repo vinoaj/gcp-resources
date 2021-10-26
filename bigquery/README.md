@@ -45,6 +45,10 @@
 - [BigQuery Data Security & Governance Guide](https://cloud.google.com/bigquery/docs/data-governance)
 - [Data deletion and retention with crypto-shredding (Part 1)](https://medium.com/google-cloud/bigquery-encryption-functions-part-i-data-deletion-retention-with-crypto-shredding-7085ecf6e53f), [(Part 2)](https://medium.com/google-cloud/end-to-end-crypto-shredding-part-ii-data-deletion-retention-with-crypto-shredding-a67f5300a8c8)
 
+## Geospatial
+- [Performance Testing Google BigQuery Geospatial — A Technical Deep Dive](https://towardsdatascience.com/performance-testing-google-bigquery-gis-a-technical-deep-dive-4e8fbc21e998)
+- 
+
 ## Tools
 - [bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful UDFs, scripts, and views for working with Google BigQuery
 - [Open feature requests]( https://issuetracker.google.com/issues?q=componentid:187149%20status:open): This provides a glimpse into what's coming up in Google BigQuery
