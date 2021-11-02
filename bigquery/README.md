@@ -22,6 +22,7 @@
 - [BigQuery Admin reference guide: Query optimization](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-optimization)
 - [BigQuery Admin reference guide: Data governance](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-data-governance)
 - [BigQuery Admin reference guide: API landscape](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-api-landscape)
+- [Building a data lakehouse on Google Cloud Platform](https://services.google.com/fh/files/misc/building-a-data-lakehouse.pdf) (whitepaper)
 
 ## Machine Learning (BigQuery ML)
 - [Unsupervised anomaly detection for time series and non-time series data](https://cloud.google.com/blog/products/data-analytics/bigquery-ml-unsupervised-anomaly-detection)

@@ -1,5 +1,8 @@
 # Data Practices
 
+## Frameworks & Architecture
+- [Building a data lakehouse on Google Cloud Platform](https://services.google.com/fh/files/misc/building-a-data-lakehouse.pdf) (whitepaper)
+
 ## Data Culture
 - [e-book: The Four-Step Blueprint for a Successful Data Culture](https://discover.looker.com/rs/131-VDZ-197/images/BlueprintforaSuccessfulDataCultureEbook.pdf)
 
