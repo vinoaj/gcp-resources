@@ -47,6 +47,7 @@
 
 ## Geospatial
 - [Performance Testing Google BigQuery Geospatial — A Technical Deep Dive](https://towardsdatascience.com/performance-testing-google-bigquery-gis-a-technical-deep-dive-4e8fbc21e998)
+- [How to load GeoJSON files into BigQuery GIS](https://medium.com/google-cloud/how-to-load-geojson-files-into-bigquery-gis-9dc009802fb4)
 - 
 
 ## Tools
