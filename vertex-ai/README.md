@@ -1,6 +1,7 @@
 # Vertex AI
 
 - [MLOps Whitepaper](https://cloud.google.com/resources/mlops-whitepaper)
+- [MLOps Architecture considerations](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 ## Datasets
 - [Managing ML data sets with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-how-to-create-and-manage-data-sets)
