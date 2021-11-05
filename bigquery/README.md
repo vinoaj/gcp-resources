@@ -60,6 +60,7 @@
 - [JMeter BigQuery Performance Testing](https://github.com/GoogleCloudPlatform/bigquery-utils/tree/master/performance_testing/jmeter)
 - [BigQuery View Analyser (by Servian)](https://github.com/servian/bigquery-view-analyzer)
 - [Fake PII table creator](https://github.com/mesmacosta/bq-fake-pii-table-creator): scripts to generate tables with fake PII (e.g. names, phone numbers, etc.). Useful for testing out DLP.
+- [Generate fake datasets in BigQuery](https://medium.com/google-cloud/yet-another-way-to-generate-fake-datasets-in-bigquery-93ee87c1008f)
 
 ## Frameworks
 - [ZetaSQL](https://github.com/google/zetasql) is the SQL parsing engine that BigQuery utilises. ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer. It is not itself a database or query engine. Instead it is intended to be used by multiple engines wanting to provide consistent behavior for all semantic analysis, name resolution, type checking, implicit casting, etc.
