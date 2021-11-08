@@ -51,6 +51,7 @@
 - [EDA to working Vertex AI pipeline](https://github.com/jy2k/From-EDA-to-pipeline)
 - [Vertex AI with MLB Player Digital Engagement](https://www.kaggle.com/ryanholbrook/vertex-ai-with-mlb-player-digital-engagement#Hyperparameter-Tuning-with-Vizier): focusing on hyperparameter tuning with Vizier
 - [Dual deployments on Vertex AI](https://github.com/sayakpaul/Dual-Deployments-on-Vertex-AI) (accompanying [blog post](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai))
+- [Rapid prototyping BQML and AutoML models and deploying the best performing model](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/master/notebooks/community/structured_data/rapid_prototyping_bqml_automl.ipynb)
 - [Global Fishing Watch -- timeseries-classification](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/people-and-planet-ai/timeseries-classification) (accompanying [blog post](https://cloud.google.com/blog/topics/developers-practitioners/people-and-planet-ai-how-build-time-series-model-classify-fishing-activities-sea))
 
 ## Codelabs
