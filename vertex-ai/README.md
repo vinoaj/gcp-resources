@@ -26,6 +26,7 @@
 
 ## Training
 - [Debugging Vertex AI training jobs with the interactive shell](https://cloud.google.com/blog/topics/developers-practitioners/debugging-vertex-ai-training-jobs-interactive-shell)
+- [Cloud Storage as a File System in AI Training](https://cloud.google.com/blog/products/ai-machine-learning/cloud-storage-file-system-ai-training)
 - [7 tips for trouble-free ML model training](https://cloud.google.com/blog/products/ai-machine-learning/7-tips-for-trouble-free-ml-model-training)
 - [PyTorch on Google Cloud: How To train and tune PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai)
 - [Faster distributed GPU training with Reduction Server on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/faster-distributed-training-with-google-clouds-reduction-server)
