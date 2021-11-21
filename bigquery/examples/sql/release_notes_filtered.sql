@@ -1,4 +1,5 @@
 # StandardSQL
+-- Query link: https://console.cloud.google.com/bigquery?sq=213778380743:d8ffa1a327554b13bccf9c1f840aa377
 
 -- Look up Google Cloud release notes for the last 30 days, filtered by products of interest.
 -- The release notes are filtered by applying regular expressions (in the "regexes" CTE)
@@ -27,19 +28,11 @@ WITH regexes AS (
     SELECT "^(Notebooks.*)$" UNION ALL
     SELECT "^(Pub/Sub.*)$" UNION ALL
     SELECT "^(Vertex AI.*)$"
-),
-product_names_of_interest AS (
-    SELECT DISTINCT(product_name)
-    FROM `bigquery-public-data.google_cloud_release_notes.release_notes`
-        INNER JOIN regexes r
-        ON REGEXP_CONTAINS(product_name, r.regex)
-    -- Minimise number of partitions to be scanned
-    -- TODO: parameterize interval as it is used in multiple places
-    WHERE published_at >= DATE_SUB(CURRENT_DATE(), INTERVAL 30 DAY)
 )
 
 SELECT product_name, product_version_name, published_at, release_note_type, description
 FROM `bigquery-public-data.google_cloud_release_notes.release_notes`
+    INNER JOIN regexes r
+    ON REGEXP_CONTAINS(product_name, r.regex)
 WHERE published_at >= DATE_SUB(CURRENT_DATE(), INTERVAL 30 DAY)
-  AND product_name IN (SELECT * FROM product_names_of_interest)
 ORDER BY product_name, published_at DESC
