@@ -13,4 +13,6 @@ WHERE
   start_time BETWEEN TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 1 DAY) AND CURRENT_TIMESTAMP()
   AND state = "DONE"
   AND REGEXP_CONTAINS(query, r"SELECT wiki, title")
+  -- Only show scheduled queries
+  -- AND REGEXP_CONTAINS(job_id, "^(scheduled_query_.*)$")
 GROUP BY job_id, end_time, start_time, total_bytes_processed
