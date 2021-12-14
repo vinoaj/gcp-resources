@@ -3,6 +3,9 @@
 - [MLOps Whitepaper](https://cloud.google.com/resources/mlops-whitepaper)
 - [MLOps Architecture considerations](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
+## AutoML
+- [https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html?m=1](https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html?m=1)
+
 ## Datasets
 - [Managing ML data sets with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-how-to-create-and-manage-data-sets)
 
@@ -13,6 +16,9 @@
 ## Feature Store
 - [Kickstart your organization’s ML application development flywheel with the Vertex Feature Store](https://cloud.google.com/blog/topics/developers-practitioners/kickstart-your-organizations-ml-application-development-flywheel-vertex-feature-store)
 
+## Matching Engine
+- [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+
 ## Model Monitoring
 - [Monitor models for training-serving skew with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai)
 
@@ -22,7 +28,6 @@
 - [Scalable ML Workflows using PyTorch on Kubeflow Pipelines and Vertex Pipelines](https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines)
 - [Model training as a CI/CD system: Part I](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i) (supporting [notebooks](https://github.com/deep-diver/Model-Training-as-a-CI-CD-System))
 - [Model training as a CI/CD system: Part II](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-ii) (supporting [notebooks](https://github.com/deep-diver/Model-Training-as-a-CI-CD-System))
-
 
 ## Training
 - [Debugging Vertex AI training jobs with the interactive shell](https://cloud.google.com/blog/topics/developers-practitioners/debugging-vertex-ai-training-jobs-interactive-shell)
