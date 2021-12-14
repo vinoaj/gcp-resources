@@ -21,6 +21,7 @@
 
 ## Model Monitoring
 - [Monitor models for training-serving skew with Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai)
+- Based on TensorFlow Data Validation's (TFDV) [data skew & drift detection](https://www.tensorflow.org/tfx/data_validation/get_started#checking_data_skew_and_drift)
 
 ## Pipelines
 - [Use Vertex Pipelines to build an AutoML classification end-to-end workflow](https://cloud.google.com/blog/topics/developers-practitioners/use-vertex-pipelines-build-automl-classification-end-end-workflow)
