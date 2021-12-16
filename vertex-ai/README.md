@@ -1,5 +1,7 @@
 # Vertex AI
 
+- [Forrester names Google Cloud a leader in AI Infrastructure](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-a-leader-in-the-forrester-wave-ai-infrastructure): access the report for free [here](https://reprints2.forrester.com/#/assets/2/157/RES176625/report)
+
 - [MLOps Whitepaper](https://cloud.google.com/resources/mlops-whitepaper)
 - [MLOps Architecture considerations](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
