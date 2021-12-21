@@ -11,6 +11,9 @@
 ## Datasets
 - [Managing ML data sets with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-how-to-create-and-manage-data-sets)
 
+## Explainable AI
+- [AI Explainability Whitepaper](https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf)
+
 ## Notebooks
 - [Notebooks security blueprint](https://cloud.google.com/blog/products/ai-machine-learning/ai-platform-notebooks-security-blueprint)
 - [Protecting confidential data in Notebooks](https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks), ([Terraform blueprint](https://github.com/GoogleCloudPlatform/notebooks-blueprint-security))
