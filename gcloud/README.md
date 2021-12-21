@@ -11,6 +11,9 @@
 ### List current project name
 `gcloud config list --format 'value(core.project)'`
 
+### Get project name & ID by project number
+`gcloud projects list --filter='PROJECT_NUMBER:12345678900`
+
 
 ## `gsutil` commands
 
