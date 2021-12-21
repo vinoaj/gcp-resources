@@ -136,6 +136,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Case Studies
 - [Modernizing Twitter's ad engagement analytics platform](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform): On-prem HDFS -> GCS -> Dataflow -> BQ + BigTable
+- [Processing billions of events in real time at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
 - [How Twitter's Data Analytics Platform team uses BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery.html)
 - [Seven-Eleven Japan uses Google Cloud to serve up real-time data for fast business decisions](https://cloud.google.com/blog/products/data-analytics/how-7-eleven-japan-built-its-new-data-platform)
 - [Data champions: How the Golden State Warriors are turning on-court data into a competitive advantage](https://cloud.google.com/blog/products/data-analytics/warriors-use-on-court-data-for-competitive-edge)
