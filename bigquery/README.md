@@ -1,5 +1,10 @@
 # Google BigQuery
 
+## Architecture
+- [Secure a BigQuery data warehouse that stores confidential data](https://cloud.google.com/architecture/confidential-data-warehouse-blueprint) (accompanying [Terraform scripts](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse))
+- [Data lineage systems for a data warehouse](https://cloud.google.com/architecture/architecture-concept-data-lineage-systems-in-a-data-warehouse)
+- [Secure the pipeline from your data lake to your data warehouse](https://cloud.google.com/architecture/help-secure-the-pipeline-from-your-data-lake-to-your-data-warehouse)
+
 ## Datasets
 - [BigQuery public datasets](https://pantheon.corp.google.com/marketplace/browse?filter=solution-type:dataset)
 
