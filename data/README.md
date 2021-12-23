@@ -5,6 +5,7 @@
 - [Converging Architectures: Bringing Data Lakes and Data Warehouses Together](https://services.google.com/fh/files/misc/bring-data-lakes-and-data-warehouses-together.pdf) (whitepaper)
 - [Build a modern, unified analytics data platform with Google Cloud](https://services.google.com/fh/files/misc/googlecloud_unified_analytics_data_platform_paper_2021.pdf) (whitepaper)
 - [What type of data processing organization are you?](https://services.google.com/fh/files/misc/dataprocessingorganisationwhitepaper.pdf) (whitepaper)
+- Pattern: [Creating a prediction market on Google Cloud](https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud)
 
 ## Data Culture
 - [e-book: The Four-Step Blueprint for a Successful Data Culture](https://discover.looker.com/rs/131-VDZ-197/images/BlueprintforaSuccessfulDataCultureEbook.pdf)
