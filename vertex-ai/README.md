@@ -14,9 +14,9 @@
 ## Explainable AI
 - [AI Explainability Whitepaper](https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf)
 
-## Notebooks
-- [Notebooks security blueprint](https://cloud.google.com/blog/products/ai-machine-learning/ai-platform-notebooks-security-blueprint)
-- [Protecting confidential data in Notebooks](https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks), ([Terraform blueprint](https://github.com/GoogleCloudPlatform/notebooks-blueprint-security))
+## NAS
+- [Vertex AI NAS: higher accuracy and lower latency for complex ML models](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-the-most--advanced-ml-modeling-possible)
+- Origin paper: [Neural Architecture Search with Reinforcement Learning](https://research.google/pubs/pub45826/)
 
 ## Feature Store
 - [Kickstart your organization’s ML application development flywheel with the Vertex Feature Store](https://cloud.google.com/blog/topics/developers-practitioners/kickstart-your-organizations-ml-application-development-flywheel-vertex-feature-store)
@@ -45,6 +45,10 @@
 ## Prediction / Serving
 - [Prediction Private Endpoints for fast and secure serving on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/creating-a-private-endpoint-on-vertex-ai)
 - [PyTorch on Google Cloud: How to deploy PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-deploy-pytorch-models-vertex-ai)
+
+## Workbench
+- [Notebooks security blueprint](https://cloud.google.com/blog/products/ai-machine-learning/ai-platform-notebooks-security-blueprint)
+- [Protecting confidential data in Notebooks](https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks), ([Terraform blueprint](https://github.com/GoogleCloudPlatform/notebooks-blueprint-security))
 
 ## Guides
 - [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
