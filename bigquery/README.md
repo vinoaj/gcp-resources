@@ -74,6 +74,7 @@
 
 ## Monitoring
 - [Taking a practical approach to BigQuery slot usage analysis](https://cloud.google.com/blog/products/data-analytics/monitoring-resource-usage-in-a-cloud-data-warehouse)
+- [Leveraging BigQuery Audit Log pipelines for Usage Analytics](https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis)
 
 There are 3 primary sources of data that allow you to evaluate slot usage and queries.
 
