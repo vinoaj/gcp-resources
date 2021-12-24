@@ -19,3 +19,6 @@
 
 ## Oracle on Bare Metal Solution
 - [Stubhub moves Oracle to BMS](https://cloud.google.com/blog/products/databases/database-migration-helps-stubhub-modernize-with-cloud)
+
+## Content
+- YouTube playlist: [Data Journeys](https://www.youtube.com/playlist?list=PLBgogxgQVM9u7erehI-fs6ENAPv9xnqwU) with [Bruno Aziza](https://www.linkedin.com/in/brunoaziza/)
