@@ -22,3 +22,6 @@
 
 ## Content
 - YouTube playlist: [Data Journeys](https://www.youtube.com/playlist?list=PLBgogxgQVM9u7erehI-fs6ENAPv9xnqwU) with [Bruno Aziza](https://www.linkedin.com/in/brunoaziza/)
+
+## Case Studies
+- [Tokopedia’s journey to creating a Customer Data Platform (CDP) on Google Cloud Platform](https://cloud.google.com/blog/products/data-analytics/how-tokopedia-created-a-customer-data-platform-cdp-on-google-cloud)
