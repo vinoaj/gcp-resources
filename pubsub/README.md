@@ -1,6 +1,7 @@
 # Pub/Sub
 
 - Sketchnote: [How Pub/Sub eliminates boring meetings and makes your systems scale](https://cloud.google.com/blog/topics/developers-practitioners/how-pubsub-eliminates-boring-meetings-and-makes-your-systems-scale)
+- Video series: [Pub/Sub Made Easy](https://www.youtube.com/playlist?list=PLIivdWyY5sqKwVLe4BLJ-vlh9r9zCdOse)
 
 ## Guides
 - [Eventarc: A unified eventing experience in Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)
