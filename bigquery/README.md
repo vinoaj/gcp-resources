@@ -99,6 +99,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 - [How to backup BigQuery datasets and tables to Google Cloud Storage](https://medium.com/google-cloud/how-to-backup-a-bigquery-table-or-dataset-to-google-cloud-storage-and-restore-from-it-6ef7eb322c6d)
 
 ## Migrating to BigQuery
+- Cloud Architecture: [Migrating data warehouses to BigQuery](https://cloud.google.com/architecture/dw2bq/dw-bq-migration-overview)
 - [Redshift and S3 migration to BigQuery](https://cloud.google.com/blog/products/data-analytics/redshift-and-s3-data-warehouse-migration-tools)
 - [How do I move data from MySQL to BigQuery?](https://cloud.google.com/blog/products/data-analytics/how-to-move-data-from-mysql-to-bigquery): CDC methodology using Debezium -> Pub/Sub -> Dataflow -> BigQuery
 - [Database migration: Concepts and principles](https://cloud.google.com/solutions/database-migration-concepts-principles-part-1)
