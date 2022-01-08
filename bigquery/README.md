@@ -133,6 +133,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 
 ## Guides & HowTos
 - [Using BigQuery DML & External Temporary Tables To Perform Realtime Reformatting Inserts For Television News Ngrams](https://blog.gdeltproject.org/using-bigquery-dml-external-temporary-tables-to-perform-realtime-reformatting-inserts-for-television-news-ngrams/)
+- [Breaking up very large BigQuery jobs](https://medium.com/google-cloud/breaking-up-very-large-bigquery-jobs-ea1ccc720a7): integer partitioning of the data, followed by script to loop through partitions. Eliminates byte spilling, minimises repartitioning.
 - [Building a Data Platform to Enable Analytics and AI-Driven Innovation](https://medium.com/swlh/building-a-data-platform-to-enable-analytics-and-ai-driven-innovation-1bd95e37efb9)
 - [How fleet management gets easier with smart analytics on Google Cloud](https://cloud.google.com/blog/products/data-analytics/interactive-smart-analytics-demo-for-transportation)
 - [What’s the weather like? Using Colab to get more out of BigQuery](https://cloud.google.com/blog/products/data-analytics/whats-the-weather-like-using-colab-to-get-more-out-of-bigquery)

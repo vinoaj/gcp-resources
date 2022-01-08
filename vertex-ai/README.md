@@ -41,6 +41,7 @@
 - [7 tips for trouble-free ML model training](https://cloud.google.com/blog/products/ai-machine-learning/7-tips-for-trouble-free-ml-model-training)
 - [PyTorch on Google Cloud: How To train and tune PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai)
 - [Faster distributed GPU training with Reduction Server on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/faster-distributed-training-with-google-clouds-reduction-server)
+- [PyTorch/XLA: Performance debugging on TPU-VM part 1](https://cloud.google.com/blog/topics/developers-practitioners/pytorchxla-performance-debugging-tpu-vm-part-1)
 
 ## Prediction / Serving
 - [Prediction Private Endpoints for fast and secure serving on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/creating-a-private-endpoint-on-vertex-ai)
