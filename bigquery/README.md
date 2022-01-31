@@ -51,6 +51,7 @@
 - [BigQuery Data Security & Governance Guide](https://cloud.google.com/bigquery/docs/data-governance)
 - [Data deletion and retention with crypto-shredding (Part 1)](https://medium.com/google-cloud/bigquery-encryption-functions-part-i-data-deletion-retention-with-crypto-shredding-7085ecf6e53f), [(Part 2)](https://medium.com/google-cloud/end-to-end-crypto-shredding-part-ii-data-deletion-retention-with-crypto-shredding-a67f5300a8c8)
 - [GCP Controls to leverage for Data Pipeline in Regulated Industries](https://cloud.google.com/blog/products/data-analytics/gcp-controls-to-leverage-for-data-pipeline-in-regulated-industries)
+- [Automatically apply sensitivity tags in Data Catalog to files, databases, and BigQuery tables using Cloud Data Loss Prevention and Dataflow](https://cloud.google.com/architecture/automatically-apply-sensitivity-tags-in-data-catalog)
 
 ## Geospatial
 - [Performance Testing Google BigQuery Geospatial — A Technical Deep Dive](https://towardsdatascience.com/performance-testing-google-bigquery-gis-a-technical-deep-dive-4e8fbc21e998)

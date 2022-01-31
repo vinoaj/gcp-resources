@@ -3,6 +3,7 @@
 ## Frameworks & Architecture
 - [Building a data lakehouse on Google Cloud Platform](https://services.google.com/fh/files/misc/building-a-data-lakehouse.pdf) (whitepaper)
 - [Converging Architectures: Bringing Data Lakes and Data Warehouses Together](https://services.google.com/fh/files/misc/bring-data-lakes-and-data-warehouses-together.pdf) (whitepaper)
+- [Architectures for Protecting Cloud Data Planes](https://research.google/pubs/pub51077/) (research paper)
 - [Build a modern, unified analytics data platform with Google Cloud](https://services.google.com/fh/files/misc/googlecloud_unified_analytics_data_platform_paper_2021.pdf) (whitepaper)
 - [What type of data processing organization are you?](https://services.google.com/fh/files/misc/dataprocessingorganisationwhitepaper.pdf) (whitepaper)
 - Pattern: [Creating a prediction market on Google Cloud](https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud)
