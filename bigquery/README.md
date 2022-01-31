@@ -117,6 +117,7 @@ There are 3 primary sources of data that allow you to evaluate slot usage and qu
 ## dbt
 - [Loading and transforming data into BigQuery using dbt](https://medium.com/@lakshmanok/loading-and-transforming-data-into-bigquery-using-dbt-65307ad401cd)
 - [BigQuery dbt: modern problems require modern solutions](https://medium.com/weareservian/bigquery-dbt-modern-problems-require-modern-solutions-b40faedc8aaf)
+- [Run dbt on Cloud Composer](https://github.com/GoogleCloudPlatform/professional-services/tree/main/examples/dbt-on-cloud-composer)
 
 ## Stored procedures
 - [Quickly create BigQuery demo/dev environments using SQL](https://lakshmanok.medium.com/quickly-create-bigquery-demo-dev-environments-using-sql-b14f734f7f96)
