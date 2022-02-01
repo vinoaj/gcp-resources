@@ -26,7 +26,7 @@
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines): a repo mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence
 
 ## MLOps
-- [MLOps Platforms Comparison Matrix](https://docs.google.com/spreadsheets/d/1nRqjnD7SCMJGmYR2gdZJ84YolLnHAMJwjSG7z7VcM6c/edit#gid=2142188353) (source: Thoughtworks [MLOps platforms evaluation](https://github.com/thoughtworks/mlops-platforms))
+- [MLOps Platforms Comparison Matrix](https://docs.google.com/spreadsheets/d/1nRqjnD7SCMJGmYR2gdZJ84YolLnHAMJwjSG7z7VcM6c/edit#gid=2142188353) (source: Thoughtworks [MLOps platforms evaluation](https://github.com/thoughtworks/mlops-platforms) + [whitepaper](https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_guide_to_evaluating_mlops_platforms_2021.pdf))
 
 ## Models
 ### Graph Neural Networks (GNNs)
