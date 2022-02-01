@@ -25,6 +25,9 @@
 ## AI Ethics
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines): a repo mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence
 
+## MLOps
+- [MLOps Platforms Comparison Matrix](https://docs.google.com/spreadsheets/d/1nRqjnD7SCMJGmYR2gdZJ84YolLnHAMJwjSG7z7VcM6c/edit#gid=2142188353)
+
 ## Models
 ### Graph Neural Networks (GNNs)
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)(Sep 2021) authored by members of Google Research
