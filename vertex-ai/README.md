@@ -43,6 +43,10 @@
 - [Faster distributed GPU training with Reduction Server on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/faster-distributed-training-with-google-clouds-reduction-server)
 - [PyTorch/XLA: Performance debugging on TPU-VM part 1](https://cloud.google.com/blog/topics/developers-practitioners/pytorchxla-performance-debugging-tpu-vm-part-1)
 
+## Vizier / Hyperparameter Tuning
+- [Google Vizier: A Service for Black-Box Optimization](https://research.google/pubs/pub46180/) (research paper)
+- [Optimize your applications using Google Vertex AI Vizier](https://cloud.google.com/blog/products/ai-machine-learning/optimize-your-applications-using-google-vertex-ai-vizier): creative use of Vizier to solve a non-ML black-box optimisation problem
+
 ## Prediction / Serving
 - [Prediction Private Endpoints for fast and secure serving on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/creating-a-private-endpoint-on-vertex-ai)
 - [PyTorch on Google Cloud: How to deploy PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-deploy-pytorch-models-vertex-ai)
