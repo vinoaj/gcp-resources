@@ -36,6 +36,7 @@
 - [Dataflow Under the Hood: understanding Dataflow techniques](https://cloud.google.com/blog/products/data-analytics/cloud-batch-and-stream-processing-for-analytics)
 - [Dataflow Under the Hood: comparing Dataflow with other tools](https://cloud.google.com/blog/products/data-analytics/dataflow-vs-other-stream-batch-processing-engines)
 - [Streaming Engine: Execution Model for Highly-Scalable, Low-Latency Data Processing](https://medium.com/google-cloud/streaming-engine-execution-model-1eb2eef69a8e)
+- [Flex templates](https://cloud.google.com/blog/topics/developers-practitioners/why-you-should-be-using-flex-templates-your-dataflow-deployments)
 
 ## History
 - [Dataflow Under the Hood: the origin story](https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works)
