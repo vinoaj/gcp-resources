@@ -29,11 +29,13 @@
 - Based on TensorFlow Data Validation's (TFDV) [data skew & drift detection](https://www.tensorflow.org/tfx/data_validation/get_started#checking_data_skew_and_drift)
 
 ## Pipelines
+![Concepts of a pipeline](https://storage.googleapis.com/gweb-cloudblog-publish/images/fig3-concepts-of-a-pipeline.max-800x800.png)
 - [Use Vertex Pipelines to build an AutoML classification end-to-end workflow](https://cloud.google.com/blog/topics/developers-practitioners/use-vertex-pipelines-build-automl-classification-end-end-workflow)
 - [Triggering ML pipeline runs](https://cloud.google.com/blog/topics/developers-practitioners/lets-get-it-started-triggering-ml-pipeline-runs)
 - [Scalable ML Workflows using PyTorch on Kubeflow Pipelines and Vertex Pipelines](https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines)
 - [Model training as a CI/CD system: Part I](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i) (supporting [notebooks](https://github.com/deep-diver/Model-Training-as-a-CI-CD-System))
 - [Model training as a CI/CD system: Part II](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-ii) (supporting [notebooks](https://github.com/deep-diver/Model-Training-as-a-CI-CD-System))
+- [Orchestrating PyTorch ML Workflows on Vertex AI Pipelines](https://cloud.google.com/blog/topics/developers-practitioners/orchestrating-pytorch-ml-workflows-vertex-ai-pipelines)
 
 ## Training
 - [Debugging Vertex AI training jobs with the interactive shell](https://cloud.google.com/blog/topics/developers-practitioners/debugging-vertex-ai-training-jobs-interactive-shell)
