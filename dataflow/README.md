@@ -4,6 +4,7 @@
 - [Managing & monitoring a Cloud Dataflow setup](https://cloud.google.com/blog/products/data-analytics/managing-and-monitoring-a-cloud-dataflow-setup)
 - [Tips & tricks to get your Cloud Dataflow pipelines into production](https://cloud.google.com/blog/products/data-analytics/tips-and-tricks-to-get-your-cloud-dataflow-pipelines-into-production)
 - [Solution: Setting up a CI/CD pipeline for your data-processing workflow](https://cloud.google.com/solutions/cicd-pipeline-for-data-processing)
+- [3 ways Dataflow is delivering 50%+ productivity boost and cost savings to customers](https://cloud.google.com/blog/products/data-analytics/3-ways-dataflow-delivers-roi-to-customers) ([Forrester report](https://services.google.com/fh/files/emails/forrester-total-economic-impact-google-dataflow_february-2022_.pdf))
 
 ## Guides
 - [Calling Google Cloud Machine Learning APIs from Batch and Stream ETL pipelines](https://medium.com/google-cloud/calling-google-cloud-machine-learning-apis-from-batch-and-stream-etl-pipelines-9a789ac6f972)
