@@ -12,6 +12,7 @@
 - [AI Explorables](https://pair.withgoogle.com/explorables/): This ongoing series of interactive, formula-free essays will walk you through these important concepts.
 - [Federated Analytics: Collaborative Data Science without Data Collection](https://ai.googleblog.com/2020/05/federated-analytics-collaborative-data.html). Related: [Federated learning online comic](https://federated.withgoogle.com/)
 - [How we’re minimizing AI’s carbon footprint](https://blog.google/technology/ai/minimizing-carbon-footprint/)
+- [Looking to build a recommendation system on Google Cloud? Leverage the following guidelines to identify the right solution for you (Part I)](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i)
 
 ## AutoML
 - [How Kaggle solved a spam problem in 8 days using AutoML](https://cloud.google.com/blog/products/ai-machine-learning/how-kaggle-solved-a-spam-problem-using-automl)
