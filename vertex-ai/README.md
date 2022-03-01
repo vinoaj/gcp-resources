@@ -7,6 +7,8 @@
 
 ## AutoML
 - [https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html?m=1](https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html?m=1)
+- [Vertex Forecast: An overview](https://cloud.google.com/blog/topics/developers-practitioners/vertex-forecast-overview)
+![Vertex Forecast](https://storage.googleapis.com/gweb-cloudblog-publish/images/Vertex_Forecast.max-2200x2200.png)
 
 ## Datasets
 - [Managing ML data sets with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-how-to-create-and-manage-data-sets)
@@ -67,6 +69,7 @@
 - [Dual deployments on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai)
 - [Build a reinforcement learning recommendation application using Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/build-reinforcement-learning-recommendation-application-using-vertex-ai)
 - [Developing and Deploying a Machine Learning Model on Vertex AI using Python](https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8) (accompanying [code](https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/edition2/09_vertexai))
+- [PyTorch on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-blog-series-recap)
 
 ## Notebooks & Code Samples
 - [Sample notebooks](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified)
