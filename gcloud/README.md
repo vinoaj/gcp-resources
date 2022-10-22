@@ -5,6 +5,12 @@
 
 ## `gcloud` commands
 
+### List all available profiles
+`gcloud config configurations list`
+
+### List current profile parameters
+`gcloud config list`
+
 ### Switch projects
 `gcloud config set project <PROJECT_NAME>`
 
