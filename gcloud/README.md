@@ -5,6 +5,9 @@
 
 ## `gcloud` commands
 
+### Upgrade to latest version
+`gcloud components update`
+
 ### List all available profiles
 `gcloud config configurations list`
 
